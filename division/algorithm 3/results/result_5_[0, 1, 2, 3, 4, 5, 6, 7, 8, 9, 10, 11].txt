@@ -1,0 +1,4976 @@
+************************************COUNTER = 0
+The objective value = 1
+x_5_2_3_63=1.0
+************************************COUNTER = 1
+The objective value = 1
+x_5_3_3_59=1.0
+************************************COUNTER = 2
+The objective value = 1
+x_5_0_3_18=1.0
+************************************COUNTER = 3
+The objective value = 1
+x_5_0_1_45=1.0
+************************************COUNTER = 4
+The objective value = 1
+x_5_2_2_77=1.0
+************************************COUNTER = 5
+The objective value = 1
+x_5_3_0_64=1.0
+************************************COUNTER = 6
+The objective value = 1
+x_5_1_1_64=1.0
+************************************COUNTER = 7
+The objective value = 1
+x_5_0_1_31=1.0
+************************************COUNTER = 8
+The objective value = 1
+x_5_1_0_48=1.0
+************************************COUNTER = 9
+The objective value = 1
+x_5_0_0_37=1.0
+************************************COUNTER = 10
+The objective value = 1
+x_5_1_1_31=1.0
+************************************COUNTER = 11
+The objective value = 1
+x_5_3_0_0=1.0
+************************************COUNTER = 12
+The objective value = 1
+x_5_1_0_22=1.0
+************************************COUNTER = 13
+The objective value = 1
+x_5_1_2_36=1.0
+************************************COUNTER = 14
+The objective value = 1
+x_5_2_0_49=1.0
+************************************COUNTER = 15
+The objective value = 1
+x_5_2_1_22=1.0
+************************************COUNTER = 16
+The objective value = 1
+x_5_2_2_53=1.0
+************************************COUNTER = 17
+The objective value = 1
+x_5_0_3_77=1.0
+************************************COUNTER = 18
+The objective value = 1
+x_5_3_0_45=1.0
+************************************COUNTER = 19
+The objective value = 1
+x_5_1_1_39=1.0
+************************************COUNTER = 20
+The objective value = 1
+x_5_0_2_36=1.0
+************************************COUNTER = 21
+The objective value = 1
+x_5_2_3_18=1.0
+************************************COUNTER = 22
+The objective value = 1
+x_5_3_1_41=1.0
+************************************COUNTER = 23
+The objective value = 1
+x_5_3_3_47=1.0
+************************************COUNTER = 24
+The objective value = 1
+x_5_0_3_19=1.0
+************************************COUNTER = 25
+The objective value = 1
+x_5_2_3_79=1.0
+************************************COUNTER = 26
+The objective value = 1
+x_5_0_0_12=1.0
+************************************COUNTER = 27
+The objective value = 1
+x_5_2_3_52=1.0
+************************************COUNTER = 28
+The objective value = 1
+x_5_0_0_55=1.0
+************************************COUNTER = 29
+The objective value = 1
+x_5_0_0_21=1.0
+************************************COUNTER = 30
+The objective value = 1
+x_5_0_0_18=1.0
+************************************COUNTER = 31
+The objective value = 1
+x_5_2_0_52=1.0
+************************************COUNTER = 32
+The objective value = 1
+x_5_0_1_64=1.0
+************************************COUNTER = 33
+The objective value = 1
+x_5_0_3_59=1.0
+************************************COUNTER = 34
+The objective value = 1
+x_5_0_2_24=1.0
+************************************COUNTER = 35
+The objective value = 1
+x_5_1_1_59=1.0
+************************************COUNTER = 36
+The objective value = 1
+x_5_3_0_30=1.0
+************************************COUNTER = 37
+The objective value = 1
+x_5_0_1_75=1.0
+************************************COUNTER = 38
+The objective value = 1
+x_5_0_3_17=1.0
+************************************COUNTER = 39
+The objective value = 1
+x_5_2_3_74=1.0
+************************************COUNTER = 40
+The objective value = 1
+x_5_3_0_3=1.0
+************************************COUNTER = 41
+The objective value = 1
+x_5_3_1_27=1.0
+************************************COUNTER = 42
+The objective value = 1
+x_5_3_0_26=1.0
+************************************COUNTER = 43
+The objective value = 1
+x_5_2_2_70=1.0
+************************************COUNTER = 44
+The objective value = 1
+x_5_0_0_31=1.0
+************************************COUNTER = 45
+The objective value = 1
+x_5_2_2_20=1.0
+************************************COUNTER = 46
+The objective value = 1
+x_5_2_3_27=1.0
+************************************COUNTER = 47
+The objective value = 1
+x_5_0_2_71=1.0
+************************************COUNTER = 48
+The objective value = 1
+x_5_2_2_35=1.0
+************************************COUNTER = 49
+The objective value = 1
+x_5_0_0_40=1.0
+************************************COUNTER = 50
+The objective value = 1
+x_5_3_0_15=1.0
+************************************COUNTER = 51
+The objective value = 1
+x_5_0_3_0=1.0
+************************************COUNTER = 52
+The objective value = 1
+x_5_0_1_9=1.0
+************************************COUNTER = 53
+The objective value = 1
+x_5_0_3_6=1.0
+************************************COUNTER = 54
+The objective value = 1
+x_5_0_0_50=1.0
+************************************COUNTER = 55
+The objective value = 1
+x_5_0_3_60=1.0
+************************************COUNTER = 56
+The objective value = 1
+x_5_2_0_73=1.0
+************************************COUNTER = 57
+The objective value = 1
+x_5_0_2_29=1.0
+************************************COUNTER = 58
+The objective value = 1
+x_5_3_2_38=1.0
+************************************COUNTER = 59
+The objective value = 1
+x_5_2_2_57=1.0
+************************************COUNTER = 60
+The objective value = 1
+x_5_2_1_19=1.0
+************************************COUNTER = 61
+The objective value = 1
+x_5_0_2_68=1.0
+************************************COUNTER = 62
+The objective value = 1
+x_5_3_2_50=1.0
+************************************COUNTER = 63
+The objective value = 1
+x_5_2_3_34=1.0
+************************************COUNTER = 64
+The objective value = 1
+x_5_1_2_63=1.0
+************************************COUNTER = 65
+The objective value = 1
+x_5_0_0_22=1.0
+************************************COUNTER = 66
+The objective value = 1
+x_5_0_2_61=1.0
+************************************COUNTER = 67
+The objective value = 1
+x_5_3_2_64=1.0
+************************************COUNTER = 68
+The objective value = 1
+x_5_1_2_16=1.0
+************************************COUNTER = 69
+The objective value = 1
+x_5_3_0_27=1.0
+************************************COUNTER = 70
+The objective value = 1
+x_5_3_1_20=1.0
+************************************COUNTER = 71
+The objective value = 1
+x_5_3_3_34=1.0
+************************************COUNTER = 72
+The objective value = 1
+x_5_2_0_61=1.0
+************************************COUNTER = 73
+The objective value = 1
+x_5_0_2_53=1.0
+************************************COUNTER = 74
+The objective value = 1
+x_5_0_3_24=1.0
+************************************COUNTER = 75
+The objective value = 1
+x_5_1_3_48=1.0
+************************************COUNTER = 76
+The objective value = 1
+x_5_2_1_67=1.0
+************************************COUNTER = 77
+The objective value = 1
+x_5_3_0_60=1.0
+************************************COUNTER = 78
+The objective value = 1
+x_5_0_0_76=1.0
+************************************COUNTER = 79
+The objective value = 1
+x_5_0_0_72=1.0
+************************************COUNTER = 80
+The objective value = 1
+x_5_3_0_72=1.0
+************************************COUNTER = 81
+The objective value = 1
+x_5_1_1_11=1.0
+************************************COUNTER = 82
+The objective value = 1
+x_5_2_2_47=1.0
+************************************COUNTER = 83
+The objective value = 1
+x_5_0_1_51=1.0
+************************************COUNTER = 84
+The objective value = 1
+x_5_0_2_0=1.0
+************************************COUNTER = 85
+The objective value = 1
+x_5_0_2_49=1.0
+************************************COUNTER = 86
+The objective value = 1
+x_5_2_1_10=1.0
+************************************COUNTER = 87
+The objective value = 1
+x_5_0_2_44=1.0
+************************************COUNTER = 88
+The objective value = 1
+x_5_2_2_28=1.0
+************************************COUNTER = 89
+The objective value = 1
+x_5_2_0_15=1.0
+************************************COUNTER = 90
+The objective value = 1
+x_5_0_3_48=1.0
+************************************COUNTER = 91
+The objective value = 1
+x_5_2_1_16=1.0
+************************************COUNTER = 92
+The objective value = 1
+x_5_3_0_31=1.0
+************************************COUNTER = 93
+The objective value = 1
+x_5_0_2_60=1.0
+************************************COUNTER = 94
+The objective value = 1
+x_5_1_0_24=1.0
+************************************COUNTER = 95
+The objective value = 1
+x_5_0_0_59=1.0
+************************************COUNTER = 96
+The objective value = 1
+x_5_0_2_30=1.0
+************************************COUNTER = 97
+The objective value = 1
+x_5_0_1_24=1.0
+************************************COUNTER = 98
+The objective value = 1
+x_5_2_3_67=1.0
+************************************COUNTER = 99
+The objective value = 1
+x_5_1_2_12=1.0
+************************************COUNTER = 100
+The objective value = 1
+x_5_0_2_11=1.0
+************************************COUNTER = 101
+The objective value = 1
+x_5_0_1_12=1.0
+************************************COUNTER = 102
+The objective value = 1
+x_5_1_0_45=1.0
+************************************COUNTER = 103
+The objective value = 1
+x_5_1_0_60=1.0
+************************************COUNTER = 104
+The objective value = 1
+x_5_0_3_4=1.0
+************************************COUNTER = 105
+The objective value = 1
+x_5_2_3_72=1.0
+************************************COUNTER = 106
+The objective value = 1
+x_5_0_2_16=1.0
+************************************COUNTER = 107
+The objective value = 1
+x_5_2_0_78=1.0
+************************************COUNTER = 108
+The objective value = 1
+x_5_0_2_62=1.0
+************************************COUNTER = 109
+The objective value = 1
+x_5_1_2_32=1.0
+************************************COUNTER = 110
+The objective value = 1
+x_5_0_2_31=1.0
+************************************COUNTER = 111
+The objective value = 1
+x_5_0_3_11=1.0
+************************************COUNTER = 112
+The objective value = 1
+x_5_2_2_74=1.0
+************************************COUNTER = 113
+The objective value = 1
+x_5_2_2_46=1.0
+************************************COUNTER = 114
+The objective value = 1
+x_5_1_2_28=1.0
+************************************COUNTER = 115
+The objective value = 1
+x_5_3_0_28=1.0
+************************************COUNTER = 116
+The objective value = 1
+x_5_0_0_11=1.0
+************************************COUNTER = 117
+The objective value = 1
+x_5_2_1_63=1.0
+************************************COUNTER = 118
+The objective value = 1
+x_5_2_0_72=1.0
+************************************COUNTER = 119
+The objective value = 1
+x_5_3_0_56=1.0
+************************************COUNTER = 120
+The objective value = 1
+x_5_0_0_3=1.0
+************************************COUNTER = 121
+The objective value = 1
+x_5_2_1_9=1.0
+************************************COUNTER = 122
+The objective value = 1
+x_5_2_1_58=1.0
+************************************COUNTER = 123
+The objective value = 1
+x_5_3_1_79=1.0
+************************************COUNTER = 124
+The objective value = 1
+x_5_2_0_50=1.0
+************************************COUNTER = 125
+The objective value = 1
+x_5_1_1_18=1.0
+************************************COUNTER = 126
+The objective value = 1
+x_5_1_0_0=1.0
+************************************COUNTER = 127
+The objective value = 1
+x_5_2_3_68=1.0
+************************************COUNTER = 128
+The objective value = 1
+x_5_1_2_38=1.0
+************************************COUNTER = 129
+The objective value = 1
+x_5_1_0_11=1.0
+************************************COUNTER = 130
+The objective value = 1
+x_5_0_2_42=1.0
+************************************COUNTER = 131
+The objective value = 1
+x_5_0_3_40=1.0
+************************************COUNTER = 132
+The objective value = 1
+x_5_0_3_22=1.0
+************************************COUNTER = 133
+The objective value = 1
+x_5_1_3_31=1.0
+************************************COUNTER = 134
+The objective value = 1
+x_5_0_1_23=1.0
+************************************COUNTER = 135
+The objective value = 1
+x_5_1_0_78=1.0
+************************************COUNTER = 136
+The objective value = 1
+x_5_0_3_69=1.0
+************************************COUNTER = 137
+The objective value = 1
+x_5_0_1_28=1.0
+************************************COUNTER = 138
+The objective value = 1
+x_5_2_1_45=1.0
+************************************COUNTER = 139
+The objective value = 1
+x_5_1_1_19=1.0
+************************************COUNTER = 140
+The objective value = 1
+x_5_0_1_48=1.0
+************************************COUNTER = 141
+The objective value = 1
+x_5_2_3_71=1.0
+************************************COUNTER = 142
+The objective value = 1
+x_5_3_3_78=1.0
+************************************COUNTER = 143
+The objective value = 1
+x_5_3_1_36=1.0
+************************************COUNTER = 144
+The objective value = 1
+x_5_1_0_19=1.0
+************************************COUNTER = 145
+The objective value = 1
+x_5_0_2_48=1.0
+************************************COUNTER = 146
+The objective value = 1
+x_5_3_2_55=1.0
+************************************COUNTER = 147
+The objective value = 1
+x_5_1_1_22=1.0
+************************************COUNTER = 148
+The objective value = 1
+x_5_0_1_1=1.0
+************************************COUNTER = 149
+The objective value = 1
+x_5_1_1_2=1.0
+************************************COUNTER = 150
+The objective value = 1
+x_5_2_2_5=1.0
+************************************COUNTER = 151
+The objective value = 1
+x_5_3_0_71=1.0
+************************************COUNTER = 152
+The objective value = 1
+x_5_1_1_55=1.0
+************************************COUNTER = 153
+The objective value = 1
+x_5_3_0_47=1.0
+************************************COUNTER = 154
+The objective value = 1
+x_5_1_0_6=1.0
+************************************COUNTER = 155
+The objective value = 1
+x_5_2_3_76=1.0
+************************************COUNTER = 156
+The objective value = 1
+x_5_1_2_54=1.0
+************************************COUNTER = 157
+The objective value = 1
+x_5_3_3_73=1.0
+************************************COUNTER = 158
+The objective value = 1
+x_5_0_2_1=1.0
+************************************COUNTER = 159
+The objective value = 1
+x_5_0_3_31=1.0
+************************************COUNTER = 160
+The objective value = 1
+x_5_2_3_8=1.0
+************************************COUNTER = 161
+The objective value = 1
+x_5_1_0_18=1.0
+************************************COUNTER = 162
+The objective value = 1
+x_5_2_1_27=1.0
+************************************COUNTER = 163
+The objective value = 1
+x_5_0_2_72=1.0
+************************************COUNTER = 164
+The objective value = 1
+x_5_1_0_31=1.0
+************************************COUNTER = 165
+The objective value = 1
+x_5_2_2_56=1.0
+************************************COUNTER = 166
+The objective value = 1
+x_5_1_1_40=1.0
+************************************COUNTER = 167
+The objective value = 1
+x_5_3_1_31=1.0
+************************************COUNTER = 168
+The objective value = 1
+x_5_0_3_55=1.0
+************************************COUNTER = 169
+The objective value = 1
+x_5_1_3_10=1.0
+************************************COUNTER = 170
+The objective value = 1
+x_5_1_3_24=1.0
+************************************COUNTER = 171
+The objective value = 1
+x_5_3_2_49=1.0
+************************************COUNTER = 172
+The objective value = 1
+x_5_2_1_60=1.0
+************************************COUNTER = 173
+The objective value = 1
+x_5_2_3_36=1.0
+************************************COUNTER = 174
+The objective value = 1
+x_5_0_2_34=1.0
+************************************COUNTER = 175
+The objective value = 1
+x_5_0_2_77=1.0
+************************************COUNTER = 176
+The objective value = 1
+x_5_0_0_29=1.0
+************************************COUNTER = 177
+The objective value = 1
+x_5_3_2_73=1.0
+************************************COUNTER = 178
+The objective value = 1
+x_5_2_3_4=1.0
+************************************COUNTER = 179
+The objective value = 1
+x_5_0_0_63=1.0
+************************************COUNTER = 180
+The objective value = 1
+x_5_1_3_1=1.0
+************************************COUNTER = 181
+The objective value = 1
+x_5_1_2_18=1.0
+************************************COUNTER = 182
+The objective value = 1
+x_5_1_0_77=1.0
+************************************COUNTER = 183
+The objective value = 1
+x_5_0_3_63=1.0
+************************************COUNTER = 184
+The objective value = 1
+x_5_0_3_20=1.0
+************************************COUNTER = 185
+The objective value = 1
+x_5_3_3_45=1.0
+************************************COUNTER = 186
+The objective value = 1
+x_5_3_1_8=1.0
+************************************COUNTER = 187
+The objective value = 1
+x_5_1_2_20=1.0
+************************************COUNTER = 188
+The objective value = 1
+x_5_0_3_45=1.0
+************************************COUNTER = 189
+The objective value = 1
+x_5_2_0_43=1.0
+************************************COUNTER = 190
+The objective value = 1
+x_5_0_0_70=1.0
+************************************COUNTER = 191
+The objective value = 1
+x_5_3_1_47=1.0
+************************************COUNTER = 192
+The objective value = 1
+x_5_2_3_77=1.0
+************************************COUNTER = 193
+The objective value = 1
+x_5_2_0_76=1.0
+************************************COUNTER = 194
+The objective value = 1
+x_5_2_0_32=1.0
+************************************COUNTER = 195
+The objective value = 1
+x_5_1_3_35=1.0
+************************************COUNTER = 196
+The objective value = 1
+x_5_1_1_69=1.0
+************************************COUNTER = 197
+The objective value = 1
+x_5_0_3_8=1.0
+************************************COUNTER = 198
+The objective value = 1
+x_5_2_3_5=1.0
+************************************COUNTER = 199
+The objective value = 1
+x_5_0_1_63=1.0
+************************************COUNTER = 200
+The objective value = 1
+x_5_3_0_14=1.0
+************************************COUNTER = 201
+The objective value = 1
+x_5_1_1_63=1.0
+************************************COUNTER = 202
+The objective value = 1
+x_5_3_0_46=1.0
+************************************COUNTER = 203
+The objective value = 1
+x_5_0_3_71=1.0
+************************************COUNTER = 204
+The objective value = 1
+x_5_0_3_49=1.0
+************************************COUNTER = 205
+The objective value = 1
+x_5_2_1_41=1.0
+************************************COUNTER = 206
+The objective value = 1
+x_5_1_0_20=1.0
+************************************COUNTER = 207
+The objective value = 1
+x_5_0_0_69=1.0
+************************************COUNTER = 208
+The objective value = 1
+x_5_0_1_18=1.0
+************************************COUNTER = 209
+The objective value = 1
+x_5_2_3_9=1.0
+************************************COUNTER = 210
+The objective value = 1
+x_5_2_1_46=1.0
+************************************COUNTER = 211
+The objective value = 1
+x_5_0_3_1=1.0
+************************************COUNTER = 212
+The objective value = 1
+x_5_0_0_36=1.0
+************************************COUNTER = 213
+The objective value = 1
+x_5_1_0_1=1.0
+************************************COUNTER = 214
+The objective value = 1
+x_5_3_0_8=1.0
+************************************COUNTER = 215
+The objective value = 1
+x_5_3_3_40=1.0
+************************************COUNTER = 216
+The objective value = 1
+x_5_0_2_10=1.0
+************************************COUNTER = 217
+The objective value = 1
+x_5_1_0_38=1.0
+************************************COUNTER = 218
+The objective value = 1
+x_5_1_2_22=1.0
+************************************COUNTER = 219
+The objective value = 1
+x_5_2_1_32=1.0
+************************************COUNTER = 220
+The objective value = 1
+x_5_1_0_49=1.0
+************************************COUNTER = 221
+The objective value = 1
+x_5_3_2_62=1.0
+************************************COUNTER = 222
+The objective value = 1
+x_5_2_3_70=1.0
+************************************COUNTER = 223
+The objective value = 1
+x_5_2_2_49=1.0
+************************************COUNTER = 224
+The objective value = 1
+x_5_0_1_54=1.0
+************************************COUNTER = 225
+The objective value = 1
+x_5_0_2_63=1.0
+************************************COUNTER = 226
+The objective value = 1
+x_5_2_3_17=1.0
+************************************COUNTER = 227
+The objective value = 1
+x_5_1_0_71=1.0
+************************************COUNTER = 228
+The objective value = 1
+x_5_3_1_37=1.0
+************************************COUNTER = 229
+The objective value = 1
+x_5_0_3_41=1.0
+************************************COUNTER = 230
+The objective value = 1
+x_5_2_2_78=1.0
+************************************COUNTER = 231
+The objective value = 1
+x_5_0_1_43=1.0
+************************************COUNTER = 232
+The objective value = 1
+x_5_3_0_37=1.0
+************************************COUNTER = 233
+The objective value = 1
+x_5_0_1_56=1.0
+************************************COUNTER = 234
+The objective value = 1
+x_5_1_2_61=1.0
+************************************COUNTER = 235
+The objective value = 1
+x_5_0_0_49=1.0
+************************************COUNTER = 236
+The objective value = 1
+x_5_1_3_63=1.0
+************************************COUNTER = 237
+The objective value = 1
+x_5_1_0_63=1.0
+************************************COUNTER = 238
+The objective value = 1
+x_5_3_1_68=1.0
+************************************COUNTER = 239
+The objective value = 1
+x_5_2_2_33=1.0
+************************************COUNTER = 240
+The objective value = 1
+x_5_2_0_13=1.0
+************************************COUNTER = 241
+The objective value = 1
+x_5_2_0_8=1.0
+************************************COUNTER = 242
+The objective value = 1
+x_5_0_0_41=1.0
+************************************COUNTER = 243
+The objective value = 1
+x_5_0_1_58=1.0
+************************************COUNTER = 244
+The objective value = 1
+x_5_3_0_6=1.0
+************************************COUNTER = 245
+The objective value = 1
+x_5_3_3_60=1.0
+************************************COUNTER = 246
+The objective value = 1
+x_5_0_1_36=1.0
+************************************COUNTER = 247
+The objective value = 1
+x_5_2_3_54=1.0
+************************************COUNTER = 248
+The objective value = 1
+x_5_1_1_41=1.0
+************************************COUNTER = 249
+The objective value = 1
+x_5_3_3_54=1.0
+************************************COUNTER = 250
+The objective value = 1
+x_5_1_3_57=1.0
+************************************COUNTER = 251
+The objective value = 1
+x_5_1_3_36=1.0
+************************************COUNTER = 252
+The objective value = 1
+x_5_0_1_20=1.0
+************************************COUNTER = 253
+The objective value = 1
+x_5_3_1_16=1.0
+************************************COUNTER = 254
+The objective value = 1
+x_5_3_0_35=1.0
+************************************COUNTER = 255
+The objective value = 1
+x_5_2_0_55=1.0
+************************************COUNTER = 256
+The objective value = 1
+x_5_3_2_10=1.0
+************************************COUNTER = 257
+The objective value = 1
+x_5_2_1_29=1.0
+************************************COUNTER = 258
+The objective value = 1
+x_5_0_0_23=1.0
+************************************COUNTER = 259
+The objective value = 1
+x_5_0_1_14=1.0
+************************************COUNTER = 260
+The objective value = 1
+x_5_2_3_35=1.0
+************************************COUNTER = 261
+The objective value = 1
+x_5_1_2_31=1.0
+************************************COUNTER = 262
+The objective value = 1
+x_5_0_1_27=1.0
+************************************COUNTER = 263
+The objective value = 1
+x_5_1_0_7=1.0
+************************************COUNTER = 264
+The objective value = 1
+x_5_1_3_19=1.0
+************************************COUNTER = 265
+The objective value = 1
+x_5_0_3_43=1.0
+************************************COUNTER = 266
+The objective value = 1
+x_5_3_0_53=1.0
+************************************COUNTER = 267
+The objective value = 1
+x_5_2_3_7=1.0
+************************************COUNTER = 268
+The objective value = 1
+x_5_2_3_16=1.0
+************************************COUNTER = 269
+The objective value = 1
+x_5_0_2_59=1.0
+************************************COUNTER = 270
+The objective value = 1
+x_5_1_1_49=1.0
+************************************COUNTER = 271
+The objective value = 1
+x_5_0_1_8=1.0
+************************************COUNTER = 272
+The objective value = 1
+x_5_3_3_51=1.0
+************************************COUNTER = 273
+The objective value = 1
+x_5_3_1_46=1.0
+************************************COUNTER = 274
+The objective value = 1
+x_5_0_1_73=1.0
+************************************COUNTER = 275
+The objective value = 1
+x_5_0_1_62=1.0
+************************************COUNTER = 276
+The objective value = 1
+x_5_1_3_27=1.0
+************************************COUNTER = 277
+The objective value = 1
+x_5_0_3_9=1.0
+************************************COUNTER = 278
+The objective value = 1
+x_5_3_1_15=1.0
+************************************COUNTER = 279
+The objective value = 1
+x_5_0_3_33=1.0
+************************************COUNTER = 280
+The objective value = 1
+x_5_0_0_38=1.0
+************************************COUNTER = 281
+The objective value = 1
+x_5_3_0_23=1.0
+************************************COUNTER = 282
+The objective value = 1
+x_5_0_1_70=1.0
+************************************COUNTER = 283
+The objective value = 1
+x_5_0_2_27=1.0
+************************************COUNTER = 284
+The objective value = 1
+x_5_1_3_62=1.0
+************************************COUNTER = 285
+The objective value = 1
+x_5_1_2_70=1.0
+************************************COUNTER = 286
+The objective value = 1
+x_5_1_0_59=1.0
+************************************COUNTER = 287
+The objective value = 1
+x_5_0_1_22=1.0
+************************************COUNTER = 288
+The objective value = 1
+x_5_2_1_50=1.0
+************************************COUNTER = 289
+The objective value = 1
+x_5_0_0_10=1.0
+************************************COUNTER = 290
+The objective value = 1
+x_5_1_2_23=1.0
+************************************COUNTER = 291
+The objective value = 1
+x_5_0_1_38=1.0
+************************************COUNTER = 292
+The objective value = 1
+x_5_2_1_15=1.0
+************************************COUNTER = 293
+The objective value = 1
+x_5_3_0_11=1.0
+************************************COUNTER = 294
+The objective value = 1
+x_5_2_0_22=1.0
+************************************COUNTER = 295
+The objective value = 1
+x_5_1_3_18=1.0
+************************************COUNTER = 296
+The objective value = 1
+x_5_2_1_26=1.0
+************************************COUNTER = 297
+The objective value = 1
+x_5_2_2_38=1.0
+************************************COUNTER = 298
+The objective value = 1
+x_5_1_2_50=1.0
+************************************COUNTER = 299
+The objective value = 1
+x_5_3_0_78=1.0
+************************************COUNTER = 300
+The objective value = 1
+x_5_0_1_50=1.0
+************************************COUNTER = 301
+The objective value = 1
+x_5_2_3_78=1.0
+************************************COUNTER = 302
+The objective value = 1
+x_5_2_1_74=1.0
+************************************COUNTER = 303
+The objective value = 1
+x_5_1_1_61=1.0
+************************************COUNTER = 304
+The objective value = 1
+x_5_2_3_51=1.0
+************************************COUNTER = 305
+The objective value = 1
+x_5_2_2_42=1.0
+************************************COUNTER = 306
+The objective value = 1
+x_5_1_2_17=1.0
+************************************COUNTER = 307
+The objective value = 1
+x_5_0_2_58=1.0
+************************************COUNTER = 308
+The objective value = 1
+x_5_1_2_39=1.0
+************************************COUNTER = 309
+The objective value = 1
+x_5_0_1_79=1.0
+************************************COUNTER = 310
+The objective value = 1
+x_5_0_3_46=1.0
+************************************COUNTER = 311
+The objective value = 1
+x_5_1_3_34=1.0
+************************************COUNTER = 312
+The objective value = 1
+x_5_2_0_71=1.0
+************************************COUNTER = 313
+The objective value = 1
+x_5_3_0_17=1.0
+************************************COUNTER = 314
+The objective value = 1
+x_5_1_2_37=1.0
+************************************COUNTER = 315
+The objective value = 1
+x_5_2_2_2=1.0
+************************************COUNTER = 316
+The objective value = 1
+x_5_0_1_37=1.0
+************************************COUNTER = 317
+The objective value = 1
+x_5_2_2_23=1.0
+************************************COUNTER = 318
+The objective value = 1
+x_5_1_1_9=1.0
+************************************COUNTER = 319
+The objective value = 1
+x_5_3_1_30=1.0
+************************************COUNTER = 320
+The objective value = 1
+x_5_3_1_55=1.0
+************************************COUNTER = 321
+The objective value = 1
+x_5_0_3_79=1.0
+************************************COUNTER = 322
+The objective value = 1
+x_5_0_2_45=1.0
+************************************COUNTER = 323
+The objective value = 1
+x_5_0_0_45=1.0
+************************************COUNTER = 324
+The objective value = 1
+x_5_3_0_50=1.0
+************************************COUNTER = 325
+The objective value = 1
+x_5_3_3_48=1.0
+************************************COUNTER = 326
+The objective value = 1
+x_5_2_3_73=1.0
+************************************COUNTER = 327
+The objective value = 1
+x_5_2_3_1=1.0
+************************************COUNTER = 328
+The objective value = 1
+x_5_1_2_49=1.0
+************************************COUNTER = 329
+The objective value = 1
+x_5_1_1_16=1.0
+************************************COUNTER = 330
+The objective value = 1
+x_5_0_0_48=1.0
+************************************COUNTER = 331
+The objective value = 1
+x_5_0_2_76=1.0
+************************************COUNTER = 332
+The objective value = 1
+x_5_1_2_41=1.0
+************************************COUNTER = 333
+The objective value = 1
+x_5_0_1_41=1.0
+************************************COUNTER = 334
+The objective value = 1
+x_5_0_2_41=1.0
+************************************COUNTER = 335
+The objective value = 1
+x_5_2_2_40=1.0
+************************************COUNTER = 336
+The objective value = 1
+x_5_1_3_65=1.0
+************************************COUNTER = 337
+The objective value = 1
+x_5_2_3_15=1.0
+************************************COUNTER = 338
+The objective value = 1
+x_5_2_0_79=1.0
+************************************COUNTER = 339
+The objective value = 1
+x_5_0_3_15=1.0
+************************************COUNTER = 340
+The objective value = 1
+x_5_2_0_11=1.0
+************************************COUNTER = 341
+The objective value = 1
+x_5_3_1_74=1.0
+************************************COUNTER = 342
+The objective value = 1
+x_5_3_3_17=1.0
+************************************COUNTER = 343
+The objective value = 1
+x_5_2_0_2=1.0
+************************************COUNTER = 344
+The objective value = 1
+x_5_0_0_27=1.0
+************************************COUNTER = 345
+The objective value = 1
+x_5_1_0_56=1.0
+************************************COUNTER = 346
+The objective value = 1
+x_5_1_3_78=1.0
+************************************COUNTER = 347
+The objective value = 1
+x_5_0_0_75=1.0
+************************************COUNTER = 348
+The objective value = 1
+x_5_2_3_26=1.0
+************************************COUNTER = 349
+The objective value = 1
+x_5_3_2_21=1.0
+************************************COUNTER = 350
+The objective value = 1
+x_5_1_0_44=1.0
+************************************COUNTER = 351
+The objective value = 1
+x_5_3_2_27=1.0
+************************************COUNTER = 352
+The objective value = 1
+x_5_0_1_29=1.0
+************************************COUNTER = 353
+The objective value = 1
+x_5_3_3_58=1.0
+************************************COUNTER = 354
+The objective value = 1
+x_5_0_2_6=1.0
+************************************COUNTER = 355
+The objective value = 1
+x_5_1_1_70=1.0
+************************************COUNTER = 356
+The objective value = 1
+x_5_1_3_23=1.0
+************************************COUNTER = 357
+The objective value = 1
+x_5_1_3_28=1.0
+************************************COUNTER = 358
+The objective value = 1
+x_5_1_3_17=1.0
+************************************COUNTER = 359
+The objective value = 1
+x_5_0_3_56=1.0
+************************************COUNTER = 360
+The objective value = 1
+x_5_2_0_31=1.0
+************************************COUNTER = 361
+The objective value = 1
+x_5_2_3_62=1.0
+************************************COUNTER = 362
+The objective value = 1
+x_5_1_3_44=1.0
+************************************COUNTER = 363
+The objective value = 1
+x_5_1_3_46=1.0
+************************************COUNTER = 364
+The objective value = 1
+x_5_0_3_78=1.0
+************************************COUNTER = 365
+The objective value = 1
+x_5_1_2_43=1.0
+************************************COUNTER = 366
+The objective value = 1
+x_5_3_3_70=1.0
+************************************COUNTER = 367
+The objective value = 1
+x_5_2_2_16=1.0
+************************************COUNTER = 368
+The objective value = 1
+x_5_1_1_15=1.0
+************************************COUNTER = 369
+The objective value = 1
+x_5_0_3_75=1.0
+************************************COUNTER = 370
+The objective value = 1
+x_5_3_1_42=1.0
+************************************COUNTER = 371
+The objective value = 1
+x_5_1_1_20=1.0
+************************************COUNTER = 372
+The objective value = 1
+x_5_2_0_46=1.0
+************************************COUNTER = 373
+The objective value = 1
+x_5_1_0_75=1.0
+************************************COUNTER = 374
+The objective value = 1
+x_5_1_3_12=1.0
+************************************COUNTER = 375
+The objective value = 1
+x_5_2_3_49=1.0
+************************************COUNTER = 376
+The objective value = 1
+x_5_0_1_2=1.0
+************************************COUNTER = 377
+The objective value = 1
+x_5_0_1_55=1.0
+************************************COUNTER = 378
+The objective value = 1
+x_5_0_3_65=1.0
+************************************COUNTER = 379
+The objective value = 1
+x_5_0_3_10=1.0
+************************************COUNTER = 380
+The objective value = 1
+x_5_0_3_61=1.0
+************************************COUNTER = 381
+The objective value = 1
+x_5_0_1_19=1.0
+************************************COUNTER = 382
+The objective value = 1
+x_5_3_0_20=1.0
+************************************COUNTER = 383
+The objective value = 1
+x_5_0_2_28=1.0
+************************************COUNTER = 384
+The objective value = 1
+x_5_0_0_78=1.0
+************************************COUNTER = 385
+The objective value = 1
+x_5_1_3_39=1.0
+************************************COUNTER = 386
+The objective value = 1
+x_5_0_2_26=1.0
+************************************COUNTER = 387
+The objective value = 1
+x_5_3_2_30=1.0
+************************************COUNTER = 388
+The objective value = 1
+x_5_1_1_78=1.0
+************************************COUNTER = 389
+The objective value = 1
+x_5_0_2_66=1.0
+************************************COUNTER = 390
+The objective value = 1
+x_5_1_1_28=1.0
+************************************COUNTER = 391
+The objective value = 1
+x_5_0_2_46=1.0
+************************************COUNTER = 392
+The objective value = 1
+x_5_2_1_52=1.0
+************************************COUNTER = 393
+The objective value = 1
+x_5_2_3_37=1.0
+************************************COUNTER = 394
+The objective value = 1
+x_5_2_0_21=1.0
+************************************COUNTER = 395
+The objective value = 1
+x_5_2_3_31=1.0
+************************************COUNTER = 396
+The objective value = 1
+x_5_2_3_0=1.0
+************************************COUNTER = 397
+The objective value = 1
+x_5_3_2_16=1.0
+************************************COUNTER = 398
+The objective value = 1
+x_5_3_1_12=1.0
+************************************COUNTER = 399
+The objective value = 1
+x_5_1_2_7=1.0
+************************************COUNTER = 400
+The objective value = 1
+x_5_3_0_22=1.0
+************************************COUNTER = 401
+The objective value = 1
+x_5_0_2_38=1.0
+************************************COUNTER = 402
+The objective value = 1
+x_5_3_1_77=1.0
+************************************COUNTER = 403
+The objective value = 1
+x_5_3_2_31=1.0
+************************************COUNTER = 404
+The objective value = 1
+x_5_0_3_76=1.0
+************************************COUNTER = 405
+The objective value = 1
+x_5_3_0_42=1.0
+************************************COUNTER = 406
+The objective value = 1
+x_5_2_1_31=1.0
+************************************COUNTER = 407
+The objective value = 1
+x_5_0_3_42=1.0
+************************************COUNTER = 408
+The objective value = 1
+x_5_2_2_71=1.0
+************************************COUNTER = 409
+The objective value = 1
+x_5_3_0_1=1.0
+************************************COUNTER = 410
+The objective value = 1
+x_5_0_1_33=1.0
+************************************COUNTER = 411
+The objective value = 1
+x_5_3_2_17=1.0
+************************************COUNTER = 412
+The objective value = 1
+x_5_0_0_43=1.0
+************************************COUNTER = 413
+The objective value = 1
+x_5_3_3_15=1.0
+************************************COUNTER = 414
+The objective value = 1
+x_5_2_3_20=1.0
+************************************COUNTER = 415
+The objective value = 1
+x_5_0_0_35=1.0
+************************************COUNTER = 416
+The objective value = 1
+x_5_2_3_19=1.0
+************************************COUNTER = 417
+The objective value = 1
+x_5_3_2_52=1.0
+************************************COUNTER = 418
+The objective value = 1
+x_5_3_1_62=1.0
+************************************COUNTER = 419
+The objective value = 1
+x_5_1_3_21=1.0
+************************************COUNTER = 420
+The objective value = 1
+x_5_0_1_49=1.0
+************************************COUNTER = 421
+The objective value = 1
+x_5_1_3_22=1.0
+************************************COUNTER = 422
+The objective value = 1
+x_5_3_0_25=1.0
+************************************COUNTER = 423
+The objective value = 1
+x_5_0_2_67=1.0
+************************************COUNTER = 424
+The objective value = 1
+x_5_0_3_73=1.0
+************************************COUNTER = 425
+The objective value = 1
+x_5_3_2_22=1.0
+************************************COUNTER = 426
+The objective value = 1
+x_5_0_2_51=1.0
+************************************COUNTER = 427
+The objective value = 1
+x_5_1_0_42=1.0
+************************************COUNTER = 428
+The objective value = 1
+x_5_1_0_47=1.0
+************************************COUNTER = 429
+The objective value = 1
+x_5_3_2_20=1.0
+************************************COUNTER = 430
+The objective value = 1
+x_5_1_0_30=1.0
+************************************COUNTER = 431
+The objective value = 1
+x_5_2_2_29=1.0
+************************************COUNTER = 432
+The objective value = 1
+x_5_0_2_32=1.0
+************************************COUNTER = 433
+The objective value = 1
+x_5_0_0_73=1.0
+************************************COUNTER = 434
+The objective value = 1
+x_5_2_2_15=1.0
+************************************COUNTER = 435
+The objective value = 1
+x_5_2_2_68=1.0
+************************************COUNTER = 436
+The objective value = 1
+x_5_2_1_66=1.0
+************************************COUNTER = 437
+The objective value = 1
+x_5_0_0_39=1.0
+************************************COUNTER = 438
+The objective value = 1
+x_5_0_2_25=1.0
+************************************COUNTER = 439
+The objective value = 1
+x_5_1_2_62=1.0
+************************************COUNTER = 440
+The objective value = 1
+x_5_0_1_15=1.0
+************************************COUNTER = 441
+The objective value = 1
+x_5_2_1_28=1.0
+************************************COUNTER = 442
+The objective value = 1
+x_5_0_0_58=1.0
+************************************COUNTER = 443
+The objective value = 1
+x_5_0_1_21=1.0
+************************************COUNTER = 444
+The objective value = 1
+x_5_0_0_15=1.0
+************************************COUNTER = 445
+The objective value = 1
+x_5_2_3_40=1.0
+************************************COUNTER = 446
+The objective value = 1
+x_5_2_2_50=1.0
+************************************COUNTER = 447
+The objective value = 1
+x_5_0_1_72=1.0
+************************************COUNTER = 448
+The objective value = 1
+x_5_0_1_44=1.0
+************************************COUNTER = 449
+The objective value = 1
+x_5_2_2_67=1.0
+************************************COUNTER = 450
+The objective value = 1
+x_5_0_2_33=1.0
+************************************COUNTER = 451
+The objective value = 1
+x_5_0_2_64=1.0
+************************************COUNTER = 452
+The objective value = 1
+x_5_0_3_21=1.0
+************************************COUNTER = 453
+The objective value = 1
+x_5_0_1_74=1.0
+************************************COUNTER = 454
+The objective value = 1
+x_5_2_2_41=1.0
+************************************COUNTER = 455
+The objective value = 1
+x_5_3_2_72=1.0
+************************************COUNTER = 456
+The objective value = 1
+x_5_3_0_34=1.0
+************************************COUNTER = 457
+The objective value = 1
+x_5_2_2_58=1.0
+************************************COUNTER = 458
+The objective value = 1
+x_5_0_3_2=1.0
+************************************COUNTER = 459
+The objective value = 1
+x_5_3_1_48=1.0
+************************************COUNTER = 460
+The objective value = 1
+x_5_0_0_30=1.0
+************************************COUNTER = 461
+The objective value = 1
+x_5_1_0_39=1.0
+************************************COUNTER = 462
+The objective value = 1
+x_5_0_2_69=1.0
+************************************COUNTER = 463
+The objective value = 1
+x_5_3_1_40=1.0
+************************************COUNTER = 464
+The objective value = 1
+x_5_0_3_29=1.0
+************************************COUNTER = 465
+The objective value = 1
+x_5_2_2_55=1.0
+************************************COUNTER = 466
+The objective value = 1
+x_5_2_1_8=1.0
+************************************COUNTER = 467
+The objective value = 1
+x_5_2_0_36=1.0
+************************************COUNTER = 468
+The objective value = 1
+x_5_2_2_73=1.0
+************************************COUNTER = 469
+The objective value = 1
+x_5_2_0_7=1.0
+************************************COUNTER = 470
+The objective value = 1
+x_5_1_0_64=1.0
+************************************COUNTER = 471
+The objective value = 1
+x_5_2_0_30=1.0
+************************************COUNTER = 472
+The objective value = 1
+x_5_0_1_17=1.0
+************************************COUNTER = 473
+The objective value = 1
+x_5_0_1_77=1.0
+************************************COUNTER = 474
+The objective value = 1
+x_5_3_1_67=1.0
+************************************COUNTER = 475
+The objective value = 1
+x_5_3_3_11=1.0
+************************************COUNTER = 476
+The objective value = 1
+x_5_0_1_46=1.0
+************************************COUNTER = 477
+The objective value = 1
+x_5_1_2_10=1.0
+************************************COUNTER = 478
+The objective value = 1
+x_5_3_3_22=1.0
+************************************COUNTER = 479
+The objective value = 1
+x_5_3_3_2=1.0
+************************************COUNTER = 480
+The objective value = 1
+x_5_1_2_15=1.0
+************************************COUNTER = 481
+The objective value = 1
+x_5_1_2_21=1.0
+************************************COUNTER = 482
+The objective value = 1
+x_5_2_2_6=1.0
+************************************COUNTER = 483
+The objective value = 1
+x_5_2_1_49=1.0
+************************************COUNTER = 484
+The objective value = 1
+x_5_2_2_59=1.0
+************************************COUNTER = 485
+The objective value = 1
+x_5_1_1_32=1.0
+************************************COUNTER = 486
+The objective value = 1
+x_5_0_3_39=1.0
+************************************COUNTER = 487
+The objective value = 1
+x_5_3_3_55=1.0
+************************************COUNTER = 488
+The objective value = 1
+x_5_1_0_69=1.0
+************************************COUNTER = 489
+The objective value = 1
+x_5_2_1_59=1.0
+************************************COUNTER = 490
+The objective value = 1
+x_5_0_1_76=1.0
+************************************COUNTER = 491
+The objective value = 1
+x_5_0_0_61=1.0
+************************************COUNTER = 492
+The objective value = 1
+x_5_1_3_58=1.0
+************************************COUNTER = 493
+The objective value = 1
+x_5_2_1_6=1.0
+************************************COUNTER = 494
+The objective value = 1
+x_5_3_0_77=1.0
+************************************COUNTER = 495
+The objective value = 1
+x_5_1_1_71=1.0
+************************************COUNTER = 496
+The objective value = 1
+x_5_0_1_61=1.0
+************************************COUNTER = 497
+The objective value = 1
+x_5_0_0_9=1.0
+************************************COUNTER = 498
+The objective value = 1
+x_5_2_3_75=1.0
+************************************COUNTER = 499
+The objective value = 1
+x_5_1_3_14=1.0
+************************************COUNTER = 500
+The objective value = 1
+x_5_3_0_18=1.0
+************************************COUNTER = 501
+The objective value = 1
+x_5_1_3_15=1.0
+************************************COUNTER = 502
+The objective value = 1
+x_5_3_1_21=1.0
+************************************COUNTER = 503
+The objective value = 1
+x_5_2_3_23=1.0
+************************************COUNTER = 504
+The objective value = 1
+x_5_0_1_57=1.0
+************************************COUNTER = 505
+The objective value = 1
+x_5_2_3_56=1.0
+************************************COUNTER = 506
+The objective value = 1
+x_5_2_2_17=1.0
+************************************COUNTER = 507
+The objective value = 1
+x_5_2_0_12=1.0
+************************************COUNTER = 508
+The objective value = 1
+x_5_0_0_33=1.0
+************************************COUNTER = 509
+The objective value = 1
+x_5_1_1_23=1.0
+************************************COUNTER = 510
+The objective value = 1
+x_5_3_3_23=1.0
+************************************COUNTER = 511
+The objective value = 1
+x_5_2_1_3=1.0
+************************************COUNTER = 512
+The objective value = 1
+x_5_1_1_48=1.0
+************************************COUNTER = 513
+The objective value = 1
+x_5_0_0_8=1.0
+************************************COUNTER = 514
+The objective value = 1
+x_5_3_0_65=1.0
+************************************COUNTER = 515
+The objective value = 1
+x_5_2_1_70=1.0
+************************************COUNTER = 516
+The objective value = 1
+x_5_3_1_78=1.0
+************************************COUNTER = 517
+The objective value = 1
+x_5_0_2_21=1.0
+************************************COUNTER = 518
+The objective value = 1
+x_5_2_3_50=1.0
+************************************COUNTER = 519
+The objective value = 1
+x_5_0_1_34=1.0
+************************************COUNTER = 520
+The objective value = 1
+x_5_2_3_28=1.0
+************************************COUNTER = 521
+The objective value = 1
+x_5_0_2_12=1.0
+************************************COUNTER = 522
+The objective value = 1
+x_5_2_1_36=1.0
+************************************COUNTER = 523
+The objective value = 1
+x_5_3_3_31=1.0
+************************************COUNTER = 524
+The objective value = 1
+x_5_2_0_41=1.0
+************************************COUNTER = 525
+The objective value = 1
+x_5_2_1_62=1.0
+************************************COUNTER = 526
+The objective value = 1
+x_5_1_1_7=1.0
+************************************COUNTER = 527
+The objective value = 1
+x_5_2_1_56=1.0
+************************************COUNTER = 528
+The objective value = 1
+x_5_2_2_60=1.0
+************************************COUNTER = 529
+The objective value = 1
+x_5_0_0_47=1.0
+************************************COUNTER = 530
+The objective value = 1
+x_5_0_1_67=1.0
+************************************COUNTER = 531
+The objective value = 1
+x_5_2_2_52=1.0
+************************************COUNTER = 532
+The objective value = 1
+x_5_2_3_33=1.0
+************************************COUNTER = 533
+The objective value = 1
+x_5_0_2_23=1.0
+************************************COUNTER = 534
+The objective value = 1
+x_5_0_1_53=1.0
+************************************COUNTER = 535
+The objective value = 1
+x_5_2_1_37=1.0
+************************************COUNTER = 536
+The objective value = 1
+x_5_0_1_78=1.0
+************************************COUNTER = 537
+The objective value = 1
+x_5_2_3_53=1.0
+************************************COUNTER = 538
+The objective value = 1
+x_5_0_3_26=1.0
+************************************COUNTER = 539
+The objective value = 1
+x_5_2_1_0=1.0
+************************************COUNTER = 540
+The objective value = 1
+x_5_2_0_33=1.0
+************************************COUNTER = 541
+The objective value = 1
+x_5_3_3_72=1.0
+************************************COUNTER = 542
+The objective value = 1
+x_5_2_1_25=1.0
+************************************COUNTER = 543
+The objective value = 1
+x_5_1_3_60=1.0
+************************************COUNTER = 544
+The objective value = 1
+x_5_0_3_47=1.0
+************************************COUNTER = 545
+The objective value = 1
+x_5_0_2_79=1.0
+************************************COUNTER = 546
+The objective value = 1
+x_5_2_1_48=1.0
+************************************COUNTER = 547
+The objective value = 1
+x_5_0_0_53=1.0
+************************************COUNTER = 548
+The objective value = 1
+x_5_0_2_22=1.0
+************************************COUNTER = 549
+The objective value = 1
+x_5_2_2_75=1.0
+************************************COUNTER = 550
+The objective value = 1
+x_5_0_0_32=1.0
+************************************COUNTER = 551
+The objective value = 1
+x_5_3_1_35=1.0
+************************************COUNTER = 552
+The objective value = 1
+x_5_3_0_55=1.0
+************************************COUNTER = 553
+The objective value = 1
+x_5_0_0_4=1.0
+************************************COUNTER = 554
+The objective value = 1
+x_5_3_0_67=1.0
+************************************COUNTER = 555
+The objective value = 1
+x_5_0_0_52=1.0
+************************************COUNTER = 556
+The objective value = 1
+x_5_0_1_35=1.0
+************************************COUNTER = 557
+The objective value = 1
+x_5_3_2_37=1.0
+************************************COUNTER = 558
+The objective value = 1
+x_5_0_0_54=1.0
+************************************COUNTER = 559
+The objective value = 1
+x_5_3_1_13=1.0
+************************************COUNTER = 560
+The objective value = 1
+x_5_0_3_16=1.0
+************************************COUNTER = 561
+The objective value = 1
+x_5_0_0_2=1.0
+************************************COUNTER = 562
+The objective value = 1
+x_5_2_2_22=1.0
+************************************COUNTER = 563
+The objective value = 1
+x_5_3_2_75=1.0
+************************************COUNTER = 564
+The objective value = 1
+x_5_3_1_50=1.0
+************************************COUNTER = 565
+The objective value = 1
+x_5_1_2_42=1.0
+************************************COUNTER = 566
+The objective value = 1
+x_5_2_3_61=1.0
+************************************COUNTER = 567
+The objective value = 1
+x_5_3_3_50=1.0
+************************************COUNTER = 568
+The objective value = 1
+x_5_1_2_77=1.0
+************************************COUNTER = 569
+The objective value = 1
+x_5_1_2_4=1.0
+************************************COUNTER = 570
+The objective value = 1
+x_5_1_1_68=1.0
+************************************COUNTER = 571
+The objective value = 1
+x_5_3_1_53=1.0
+************************************COUNTER = 572
+The objective value = 1
+x_5_1_1_13=1.0
+************************************COUNTER = 573
+The objective value = 1
+x_5_0_0_77=1.0
+************************************COUNTER = 574
+The objective value = 1
+x_5_2_0_35=1.0
+************************************COUNTER = 575
+The objective value = 1
+x_5_0_2_20=1.0
+************************************COUNTER = 576
+The objective value = 1
+x_5_3_2_8=1.0
+************************************COUNTER = 577
+The objective value = 1
+x_5_0_3_44=1.0
+************************************COUNTER = 578
+The objective value = 1
+x_5_0_1_42=1.0
+************************************COUNTER = 579
+The objective value = 1
+x_5_3_1_34=1.0
+************************************COUNTER = 580
+The objective value = 1
+x_5_2_0_0=1.0
+************************************COUNTER = 581
+The objective value = 1
+x_5_2_3_25=1.0
+************************************COUNTER = 582
+The objective value = 1
+x_5_0_1_5=1.0
+************************************COUNTER = 583
+The objective value = 1
+x_5_2_3_46=1.0
+************************************COUNTER = 584
+The objective value = 1
+x_5_2_1_68=1.0
+************************************COUNTER = 585
+The objective value = 1
+x_5_2_1_2=1.0
+************************************COUNTER = 586
+The objective value = 1
+x_5_3_2_47=1.0
+************************************COUNTER = 587
+The objective value = 1
+x_5_3_1_19=1.0
+************************************COUNTER = 588
+The objective value = 1
+x_5_1_3_79=1.0
+************************************COUNTER = 589
+The objective value = 1
+x_5_2_3_66=1.0
+************************************COUNTER = 590
+The objective value = 1
+x_5_1_3_68=1.0
+************************************COUNTER = 591
+The objective value = 1
+x_5_2_0_75=1.0
+************************************COUNTER = 592
+The objective value = 1
+x_5_1_1_36=1.0
+************************************COUNTER = 593
+The objective value = 1
+x_5_2_0_56=1.0
+************************************COUNTER = 594
+The objective value = 1
+x_5_3_2_59=1.0
+************************************COUNTER = 595
+The objective value = 1
+x_5_3_2_11=1.0
+************************************COUNTER = 596
+The objective value = 1
+x_5_0_3_38=1.0
+************************************COUNTER = 597
+The objective value = 1
+x_5_2_0_64=1.0
+************************************COUNTER = 598
+The objective value = 1
+x_5_3_0_62=1.0
+************************************COUNTER = 599
+The objective value = 1
+x_5_3_0_74=1.0
+************************************COUNTER = 600
+The objective value = 1
+x_5_3_2_19=1.0
+************************************COUNTER = 601
+The objective value = 1
+x_5_3_2_54=1.0
+************************************COUNTER = 602
+The objective value = 1
+x_5_2_2_0=1.0
+************************************COUNTER = 603
+The objective value = 1
+x_5_2_3_69=1.0
+************************************COUNTER = 604
+The objective value = 1
+x_5_3_1_25=1.0
+************************************COUNTER = 605
+The objective value = 1
+x_5_0_3_5=1.0
+************************************COUNTER = 606
+The objective value = 1
+x_5_1_2_8=1.0
+************************************COUNTER = 607
+The objective value = 1
+x_5_2_2_30=1.0
+************************************COUNTER = 608
+The objective value = 1
+x_5_2_1_76=1.0
+************************************COUNTER = 609
+The objective value = 1
+x_5_3_3_68=1.0
+************************************COUNTER = 610
+The objective value = 1
+x_5_3_2_2=1.0
+************************************COUNTER = 611
+The objective value = 1
+x_5_0_2_18=1.0
+************************************COUNTER = 612
+The objective value = 1
+x_5_2_2_24=1.0
+************************************COUNTER = 613
+The objective value = 1
+x_5_2_0_38=1.0
+************************************COUNTER = 614
+The objective value = 1
+x_5_1_0_53=1.0
+************************************COUNTER = 615
+The objective value = 1
+x_5_2_1_61=1.0
+************************************COUNTER = 616
+The objective value = 1
+x_5_0_0_26=1.0
+************************************COUNTER = 617
+The objective value = 1
+x_5_0_3_37=1.0
+************************************COUNTER = 618
+The objective value = 1
+x_5_1_1_51=1.0
+************************************COUNTER = 619
+The objective value = 1
+x_5_1_2_3=1.0
+************************************COUNTER = 620
+The objective value = 1
+x_5_2_1_51=1.0
+************************************COUNTER = 621
+The objective value = 1
+x_5_0_1_40=1.0
+************************************COUNTER = 622
+The objective value = 1
+x_5_1_3_29=1.0
+************************************COUNTER = 623
+The objective value = 1
+x_5_1_2_69=1.0
+************************************COUNTER = 624
+The objective value = 1
+x_5_0_2_47=1.0
+************************************COUNTER = 625
+The objective value = 1
+x_5_2_2_1=1.0
+************************************COUNTER = 626
+The objective value = 1
+x_5_2_3_60=1.0
+************************************COUNTER = 627
+The objective value = 1
+x_5_2_0_34=1.0
+************************************COUNTER = 628
+The objective value = 1
+x_5_1_3_7=1.0
+************************************COUNTER = 629
+The objective value = 1
+x_5_3_2_39=1.0
+************************************COUNTER = 630
+The objective value = 1
+x_5_2_0_14=1.0
+************************************COUNTER = 631
+The objective value = 1
+x_5_1_1_25=1.0
+************************************COUNTER = 632
+The objective value = 1
+x_5_1_3_77=1.0
+************************************COUNTER = 633
+The objective value = 1
+x_5_2_1_34=1.0
+************************************COUNTER = 634
+The objective value = 1
+x_5_2_0_25=1.0
+************************************COUNTER = 635
+The objective value = 1
+x_5_3_2_33=1.0
+************************************COUNTER = 636
+The objective value = 1
+x_5_3_2_63=1.0
+************************************COUNTER = 637
+The objective value = 1
+x_5_2_1_17=1.0
+************************************COUNTER = 638
+The objective value = 1
+x_5_3_2_61=1.0
+************************************COUNTER = 639
+The objective value = 1
+x_5_3_1_43=1.0
+************************************COUNTER = 640
+The objective value = 1
+x_5_0_0_66=1.0
+************************************COUNTER = 641
+The objective value = 1
+x_5_3_3_35=1.0
+************************************COUNTER = 642
+The objective value = 1
+x_5_3_1_61=1.0
+************************************COUNTER = 643
+The objective value = 1
+x_5_3_0_75=1.0
+************************************COUNTER = 644
+The objective value = 1
+x_5_2_1_53=1.0
+************************************COUNTER = 645
+The objective value = 1
+x_5_3_1_65=1.0
+************************************COUNTER = 646
+The objective value = 1
+x_5_2_0_69=1.0
+************************************COUNTER = 647
+The objective value = 1
+x_5_1_2_19=1.0
+************************************COUNTER = 648
+The objective value = 1
+x_5_2_1_77=1.0
+************************************COUNTER = 649
+The objective value = 1
+x_5_2_0_68=1.0
+************************************COUNTER = 650
+The objective value = 1
+x_5_0_2_17=1.0
+************************************COUNTER = 651
+The objective value = 1
+x_5_2_0_19=1.0
+************************************COUNTER = 652
+The objective value = 1
+x_5_0_0_67=1.0
+************************************COUNTER = 653
+The objective value = 1
+x_5_1_3_72=1.0
+************************************COUNTER = 654
+The objective value = 1
+x_5_0_0_16=1.0
+************************************COUNTER = 655
+The objective value = 1
+x_5_2_0_66=1.0
+************************************COUNTER = 656
+The objective value = 1
+x_5_1_1_10=1.0
+************************************COUNTER = 657
+The objective value = 1
+x_5_2_2_51=1.0
+************************************COUNTER = 658
+The objective value = 1
+x_5_2_0_17=1.0
+************************************COUNTER = 659
+The objective value = 1
+x_5_3_0_5=1.0
+************************************COUNTER = 660
+The objective value = 1
+x_5_1_3_50=1.0
+************************************COUNTER = 661
+The objective value = 1
+x_5_0_3_13=1.0
+************************************COUNTER = 662
+The objective value = 1
+x_5_3_0_19=1.0
+************************************COUNTER = 663
+The objective value = 1
+x_5_1_1_12=1.0
+************************************COUNTER = 664
+The objective value = 1
+x_5_0_1_68=1.0
+************************************COUNTER = 665
+The objective value = 1
+x_5_1_1_45=1.0
+************************************COUNTER = 666
+The objective value = 1
+x_5_2_3_55=1.0
+************************************COUNTER = 667
+The objective value = 1
+x_5_3_3_1=1.0
+************************************COUNTER = 668
+The objective value = 1
+x_5_2_0_74=1.0
+************************************COUNTER = 669
+The objective value = 1
+x_5_3_1_18=1.0
+************************************COUNTER = 670
+The objective value = 1
+x_5_0_1_0=1.0
+************************************COUNTER = 671
+The objective value = 1
+x_5_0_1_30=1.0
+************************************COUNTER = 672
+The objective value = 1
+x_5_0_3_3=1.0
+************************************COUNTER = 673
+The objective value = 1
+x_5_0_2_13=1.0
+************************************COUNTER = 674
+The objective value = 1
+x_5_0_3_70=1.0
+************************************COUNTER = 675
+The objective value = 1
+x_5_0_0_14=1.0
+************************************COUNTER = 676
+The objective value = 1
+x_5_3_1_60=1.0
+************************************COUNTER = 677
+The objective value = 1
+x_5_0_0_44=1.0
+************************************COUNTER = 678
+The objective value = 1
+x_5_3_1_14=1.0
+************************************COUNTER = 679
+The objective value = 1
+x_5_0_2_73=1.0
+************************************COUNTER = 680
+The objective value = 1
+x_5_2_1_7=1.0
+************************************COUNTER = 681
+The objective value = 1
+x_5_0_3_68=1.0
+************************************COUNTER = 682
+The objective value = 1
+x_5_1_0_9=1.0
+************************************COUNTER = 683
+The objective value = 1
+x_5_2_0_70=1.0
+************************************COUNTER = 684
+The objective value = 1
+x_5_2_1_57=1.0
+************************************COUNTER = 685
+The objective value = 1
+x_5_2_2_44=1.0
+************************************COUNTER = 686
+The objective value = 1
+x_5_2_1_44=1.0
+************************************COUNTER = 687
+The objective value = 1
+x_5_3_3_67=1.0
+************************************COUNTER = 688
+The objective value = 1
+x_5_3_3_28=1.0
+************************************COUNTER = 689
+The objective value = 1
+x_5_1_1_26=1.0
+************************************COUNTER = 690
+The objective value = 1
+x_5_2_1_39=1.0
+************************************COUNTER = 691
+The objective value = 1
+x_5_0_1_10=1.0
+************************************COUNTER = 692
+The objective value = 1
+x_5_2_3_42=1.0
+************************************COUNTER = 693
+The objective value = 1
+x_5_2_2_39=1.0
+************************************COUNTER = 694
+The objective value = 1
+x_5_2_3_30=1.0
+************************************COUNTER = 695
+The objective value = 1
+x_5_1_3_33=1.0
+************************************COUNTER = 696
+The objective value = 1
+x_5_2_0_62=1.0
+************************************COUNTER = 697
+The objective value = 1
+x_5_2_1_54=1.0
+************************************COUNTER = 698
+The objective value = 1
+x_5_2_2_45=1.0
+************************************COUNTER = 699
+The objective value = 1
+x_5_0_0_71=1.0
+************************************COUNTER = 700
+The objective value = 1
+x_5_2_1_11=1.0
+************************************COUNTER = 701
+The objective value = 1
+x_5_3_0_66=1.0
+************************************COUNTER = 702
+The objective value = 1
+x_5_2_0_28=1.0
+************************************COUNTER = 703
+The objective value = 1
+x_5_1_1_6=1.0
+************************************COUNTER = 704
+The objective value = 1
+x_5_3_1_5=1.0
+************************************COUNTER = 705
+The objective value = 1
+x_5_2_0_24=1.0
+************************************COUNTER = 706
+The objective value = 1
+x_5_2_0_29=1.0
+************************************COUNTER = 707
+The objective value = 1
+x_5_2_0_53=1.0
+************************************COUNTER = 708
+The objective value = 1
+x_5_0_2_56=1.0
+************************************COUNTER = 709
+The objective value = 1
+x_5_1_0_67=1.0
+************************************COUNTER = 710
+The objective value = 1
+x_5_2_1_30=1.0
+************************************COUNTER = 711
+The objective value = 1
+x_5_1_1_0=1.0
+************************************COUNTER = 712
+The objective value = 1
+x_5_1_0_35=1.0
+************************************COUNTER = 713
+The objective value = 1
+x_5_2_1_55=1.0
+************************************COUNTER = 714
+The objective value = 1
+x_5_3_2_70=1.0
+************************************COUNTER = 715
+The objective value = 1
+x_5_1_0_76=1.0
+************************************COUNTER = 716
+The objective value = 1
+x_5_3_1_0=1.0
+************************************COUNTER = 717
+The objective value = 1
+x_5_1_2_57=1.0
+************************************COUNTER = 718
+The objective value = 1
+x_5_2_2_31=1.0
+************************************COUNTER = 719
+The objective value = 1
+x_5_0_2_65=1.0
+************************************COUNTER = 720
+The objective value = 1
+x_5_2_0_57=1.0
+************************************COUNTER = 721
+The objective value = 1
+x_5_0_1_39=1.0
+************************************COUNTER = 722
+The objective value = 1
+x_5_1_2_48=1.0
+************************************COUNTER = 723
+The objective value = 1
+x_5_1_2_56=1.0
+************************************COUNTER = 724
+The objective value = 1
+x_5_3_3_52=1.0
+************************************COUNTER = 725
+The objective value = 1
+x_5_3_2_0=1.0
+************************************COUNTER = 726
+The objective value = 1
+x_5_3_3_27=1.0
+************************************COUNTER = 727
+The objective value = 1
+x_5_3_1_26=1.0
+************************************COUNTER = 728
+The objective value = 1
+x_5_0_3_53=1.0
+************************************COUNTER = 729
+The objective value = 1
+x_5_3_0_68=1.0
+************************************COUNTER = 730
+The objective value = 1
+x_5_2_2_54=1.0
+************************************COUNTER = 731
+The objective value = 1
+x_5_2_3_22=1.0
+************************************COUNTER = 732
+The objective value = 1
+x_5_0_3_66=1.0
+************************************COUNTER = 733
+The objective value = 1
+x_5_0_3_58=1.0
+************************************COUNTER = 734
+The objective value = 1
+x_5_0_1_66=1.0
+************************************COUNTER = 735
+The objective value = 1
+x_5_0_1_71=1.0
+************************************COUNTER = 736
+The objective value = 1
+x_5_1_3_30=1.0
+************************************COUNTER = 737
+The objective value = 1
+x_5_0_0_1=1.0
+************************************COUNTER = 738
+The objective value = 1
+x_5_2_2_79=1.0
+************************************COUNTER = 739
+The objective value = 1
+x_5_3_3_0=1.0
+************************************COUNTER = 740
+The objective value = 1
+x_5_1_0_28=1.0
+************************************COUNTER = 741
+The objective value = 1
+x_5_0_2_8=1.0
+************************************COUNTER = 742
+The objective value = 1
+x_5_3_2_29=1.0
+************************************COUNTER = 743
+The objective value = 1
+x_5_1_0_66=1.0
+************************************COUNTER = 744
+The objective value = 1
+x_5_2_0_67=1.0
+************************************COUNTER = 745
+The objective value = 1
+x_5_1_1_37=1.0
+************************************COUNTER = 746
+The objective value = 1
+x_5_3_2_60=1.0
+************************************COUNTER = 747
+The objective value = 1
+x_5_1_1_58=1.0
+************************************COUNTER = 748
+The objective value = 1
+x_5_0_3_54=1.0
+************************************COUNTER = 749
+The objective value = 1
+x_5_2_0_1=1.0
+************************************COUNTER = 750
+The objective value = 1
+x_5_2_1_33=1.0
+************************************COUNTER = 751
+The objective value = 1
+x_5_0_0_42=1.0
+************************************COUNTER = 752
+The objective value = 1
+x_5_0_3_14=1.0
+************************************COUNTER = 753
+The objective value = 1
+x_5_0_3_36=1.0
+************************************COUNTER = 754
+The objective value = 1
+x_5_0_3_35=1.0
+************************************COUNTER = 755
+The objective value = 1
+x_5_2_2_12=1.0
+************************************COUNTER = 756
+The objective value = 1
+x_5_2_3_13=1.0
+************************************COUNTER = 757
+The objective value = 1
+x_5_2_3_65=1.0
+************************************COUNTER = 758
+The objective value = 1
+x_5_1_1_35=1.0
+************************************COUNTER = 759
+The objective value = 1
+x_5_2_2_48=1.0
+************************************COUNTER = 760
+The objective value = 1
+x_5_3_1_59=1.0
+************************************COUNTER = 761
+The objective value = 1
+x_5_0_0_68=1.0
+************************************COUNTER = 762
+The objective value = 1
+x_5_1_3_45=1.0
+************************************COUNTER = 763
+The objective value = 1
+x_5_1_3_64=1.0
+************************************COUNTER = 764
+The objective value = 1
+x_5_2_2_8=1.0
+************************************COUNTER = 765
+The objective value = 1
+x_5_3_2_57=1.0
+************************************COUNTER = 766
+The objective value = 1
+x_5_1_2_26=1.0
+************************************COUNTER = 767
+The objective value = 1
+x_5_1_3_55=1.0
+************************************COUNTER = 768
+The objective value = 1
+x_5_0_0_64=1.0
+************************************COUNTER = 769
+The objective value = 1
+x_5_3_2_26=1.0
+************************************COUNTER = 770
+The objective value = 1
+x_5_3_0_29=1.0
+************************************COUNTER = 771
+The objective value = 1
+x_5_0_3_62=1.0
+************************************COUNTER = 772
+The objective value = 1
+x_5_1_0_26=1.0
+************************************COUNTER = 773
+The objective value = 1
+x_5_0_0_65=1.0
+************************************COUNTER = 774
+The objective value = 1
+x_5_0_3_7=1.0
+************************************COUNTER = 775
+The objective value = 1
+x_5_2_0_26=1.0
+************************************COUNTER = 776
+The objective value = 1
+x_5_1_2_24=1.0
+************************************COUNTER = 777
+The objective value = 1
+x_5_2_0_59=1.0
+************************************COUNTER = 778
+The objective value = 1
+x_5_1_2_74=1.0
+************************************COUNTER = 779
+The objective value = 1
+x_5_1_1_73=1.0
+************************************COUNTER = 780
+The objective value = 1
+x_5_2_0_45=1.0
+************************************COUNTER = 781
+The objective value = 1
+x_5_2_1_72=1.0
+************************************COUNTER = 782
+The objective value = 1
+x_5_1_2_52=1.0
+************************************COUNTER = 783
+The objective value = 1
+x_5_2_3_59=1.0
+************************************COUNTER = 784
+The objective value = 1
+x_5_1_2_45=1.0
+************************************COUNTER = 785
+The objective value = 1
+x_5_2_3_57=1.0
+************************************COUNTER = 786
+The objective value = 1
+x_5_2_3_11=1.0
+************************************COUNTER = 787
+The objective value = 1
+x_5_1_2_2=1.0
+************************************COUNTER = 788
+The objective value = 1
+x_5_3_3_30=1.0
+************************************COUNTER = 789
+The objective value = 1
+x_5_3_3_41=1.0
+************************************COUNTER = 790
+The objective value = 1
+x_5_0_0_51=1.0
+************************************COUNTER = 791
+The objective value = 1
+x_5_1_2_75=1.0
+************************************COUNTER = 792
+The objective value = 1
+x_5_0_0_7=1.0
+************************************COUNTER = 793
+The objective value = 1
+x_5_2_0_9=1.0
+************************************COUNTER = 794
+The objective value = 1
+x_5_0_0_56=1.0
+************************************COUNTER = 795
+The objective value = 1
+x_5_2_2_25=1.0
+************************************COUNTER = 796
+The objective value = 1
+x_5_1_3_43=1.0
+************************************COUNTER = 797
+The objective value = 1
+x_5_0_0_62=1.0
+************************************COUNTER = 798
+The objective value = 1
+x_5_3_2_9=1.0
+************************************COUNTER = 799
+The objective value = 1
+x_5_2_0_39=1.0
+************************************COUNTER = 800
+The objective value = 1
+x_5_3_1_33=1.0
+************************************COUNTER = 801
+The objective value = 1
+x_5_0_2_70=1.0
+************************************COUNTER = 802
+The objective value = 1
+x_5_2_3_38=1.0
+************************************COUNTER = 803
+The objective value = 1
+x_5_3_1_70=1.0
+************************************COUNTER = 804
+The objective value = 1
+x_5_3_0_41=1.0
+************************************COUNTER = 805
+The objective value = 1
+x_5_3_3_76=1.0
+************************************COUNTER = 806
+The objective value = 1
+x_5_1_1_47=1.0
+************************************COUNTER = 807
+The objective value = 1
+x_5_3_2_32=1.0
+************************************COUNTER = 808
+The objective value = 1
+x_5_3_1_64=1.0
+************************************COUNTER = 809
+The objective value = 1
+x_5_1_3_37=1.0
+************************************COUNTER = 810
+The objective value = 1
+x_5_2_1_38=1.0
+************************************COUNTER = 811
+The objective value = 1
+x_5_0_2_40=1.0
+************************************COUNTER = 812
+The objective value = 1
+x_5_1_3_59=1.0
+************************************COUNTER = 813
+The objective value = 1
+x_5_2_3_3=1.0
+************************************COUNTER = 814
+The objective value = 1
+x_5_0_1_11=1.0
+************************************COUNTER = 815
+The objective value = 1
+x_5_3_2_45=1.0
+************************************COUNTER = 816
+The objective value = 1
+x_5_0_2_19=1.0
+************************************COUNTER = 817
+The objective value = 1
+x_5_2_3_64=1.0
+************************************COUNTER = 818
+The objective value = 1
+x_5_2_0_58=1.0
+************************************COUNTER = 819
+The objective value = 1
+x_5_2_0_3=1.0
+************************************COUNTER = 820
+The objective value = 1
+x_5_3_1_73=1.0
+************************************COUNTER = 821
+The objective value = 1
+x_5_0_0_34=1.0
+************************************COUNTER = 822
+The objective value = 1
+x_5_2_0_40=1.0
+************************************COUNTER = 823
+The objective value = 1
+x_5_0_3_25=1.0
+************************************COUNTER = 824
+The objective value = 1
+x_5_3_2_41=1.0
+************************************COUNTER = 825
+The objective value = 1
+x_5_2_2_7=1.0
+************************************COUNTER = 826
+The objective value = 1
+x_5_3_0_76=1.0
+************************************COUNTER = 827
+The objective value = 1
+x_5_2_0_10=1.0
+************************************COUNTER = 828
+The objective value = 1
+x_5_1_3_38=1.0
+************************************COUNTER = 829
+The objective value = 1
+x_5_2_3_47=1.0
+************************************COUNTER = 830
+The objective value = 1
+x_5_2_3_48=1.0
+************************************COUNTER = 831
+The objective value = 1
+x_5_0_1_16=1.0
+************************************COUNTER = 832
+The objective value = 1
+x_5_0_2_39=1.0
+************************************COUNTER = 833
+The objective value = 1
+x_5_2_1_24=1.0
+************************************COUNTER = 834
+The objective value = 1
+x_5_0_0_13=1.0
+************************************COUNTER = 835
+The objective value = 1
+x_5_2_1_5=1.0
+************************************COUNTER = 836
+The objective value = 1
+x_5_2_1_13=1.0
+************************************COUNTER = 837
+The objective value = 1
+x_5_2_1_21=1.0
+************************************COUNTER = 838
+The objective value = 1
+x_5_2_1_78=1.0
+************************************COUNTER = 839
+The objective value = 1
+x_5_3_3_21=1.0
+************************************COUNTER = 840
+The objective value = 1
+x_5_1_0_57=1.0
+************************************COUNTER = 841
+The objective value = 1
+x_5_1_3_51=1.0
+************************************COUNTER = 842
+The objective value = 1
+x_5_1_1_75=1.0
+************************************COUNTER = 843
+The objective value = 1
+x_5_2_3_44=1.0
+************************************COUNTER = 844
+The objective value = 1
+x_5_0_1_69=1.0
+************************************COUNTER = 845
+The objective value = 1
+x_5_2_1_12=1.0
+************************************COUNTER = 846
+The objective value = 1
+x_5_3_3_38=1.0
+************************************COUNTER = 847
+The objective value = 1
+x_5_1_0_40=1.0
+************************************COUNTER = 848
+The objective value = 1
+x_5_2_3_21=1.0
+************************************COUNTER = 849
+The objective value = 1
+x_5_0_0_25=1.0
+************************************COUNTER = 850
+The objective value = 1
+x_5_3_2_25=1.0
+************************************COUNTER = 851
+The objective value = 1
+x_5_3_2_35=1.0
+************************************COUNTER = 852
+The objective value = 1
+x_5_2_2_37=1.0
+************************************COUNTER = 853
+The objective value = 1
+x_5_2_1_73=1.0
+************************************COUNTER = 854
+The objective value = 1
+x_5_0_0_5=1.0
+************************************COUNTER = 855
+The objective value = 1
+x_5_0_3_57=1.0
+************************************COUNTER = 856
+The objective value = 1
+x_5_3_3_19=1.0
+************************************COUNTER = 857
+The objective value = 1
+x_5_1_2_13=1.0
+************************************COUNTER = 858
+The objective value = 1
+x_5_0_1_26=1.0
+************************************COUNTER = 859
+The objective value = 1
+x_5_1_0_34=1.0
+************************************COUNTER = 860
+The objective value = 1
+x_5_0_3_28=1.0
+************************************COUNTER = 861
+The objective value = 1
+x_5_2_1_4=1.0
+************************************COUNTER = 862
+The objective value = 1
+x_5_0_0_17=1.0
+************************************COUNTER = 863
+The objective value = 1
+x_5_2_1_69=1.0
+************************************COUNTER = 864
+The objective value = 1
+x_5_2_2_4=1.0
+************************************COUNTER = 865
+The objective value = 1
+x_5_0_2_4=1.0
+************************************COUNTER = 866
+The objective value = 1
+x_5_2_1_40=1.0
+************************************COUNTER = 867
+The objective value = 1
+x_5_3_3_42=1.0
+************************************COUNTER = 868
+The objective value = 1
+x_5_2_3_39=1.0
+************************************COUNTER = 869
+The objective value = 1
+x_5_0_0_19=1.0
+************************************COUNTER = 870
+The objective value = 1
+x_5_1_0_72=1.0
+************************************COUNTER = 871
+The objective value = 1
+x_5_2_0_37=1.0
+************************************COUNTER = 872
+The objective value = 1
+x_5_3_0_58=1.0
+************************************COUNTER = 873
+The objective value = 1
+x_5_2_2_18=1.0
+************************************COUNTER = 874
+The objective value = 1
+x_5_1_0_10=1.0
+************************************COUNTER = 875
+The objective value = 1
+x_5_2_0_77=1.0
+************************************COUNTER = 876
+The objective value = 1
+x_5_3_3_9=1.0
+************************************COUNTER = 877
+The objective value = 1
+x_5_3_1_63=1.0
+************************************COUNTER = 878
+The objective value = 1
+x_5_3_0_32=1.0
+************************************COUNTER = 879
+The objective value = 1
+x_5_3_2_69=1.0
+************************************COUNTER = 880
+The objective value = 1
+x_5_3_1_72=1.0
+************************************COUNTER = 881
+The objective value = 1
+x_5_0_1_13=1.0
+************************************COUNTER = 882
+The objective value = 1
+x_5_3_3_3=1.0
+************************************COUNTER = 883
+The objective value = 1
+x_5_2_1_47=1.0
+************************************COUNTER = 884
+The objective value = 1
+x_5_2_0_65=1.0
+************************************COUNTER = 885
+The objective value = 1
+x_5_3_2_23=1.0
+************************************COUNTER = 886
+The objective value = 1
+x_5_0_2_15=1.0
+************************************COUNTER = 887
+The objective value = 1
+x_5_1_0_68=1.0
+************************************COUNTER = 888
+The objective value = 1
+x_5_3_1_51=1.0
+************************************COUNTER = 889
+The objective value = 1
+x_5_3_1_17=1.0
+************************************COUNTER = 890
+The objective value = 1
+x_5_2_2_69=1.0
+************************************COUNTER = 891
+The objective value = 1
+x_5_1_3_69=1.0
+************************************COUNTER = 892
+The objective value = 1
+x_5_0_0_74=1.0
+************************************COUNTER = 893
+The objective value = 1
+x_5_1_1_8=1.0
+************************************COUNTER = 894
+The objective value = 1
+x_5_3_3_79=1.0
+************************************COUNTER = 895
+The objective value = 1
+x_5_1_1_29=1.0
+************************************COUNTER = 896
+The objective value = 1
+x_5_2_1_65=1.0
+************************************COUNTER = 897
+The objective value = 1
+x_5_3_2_56=1.0
+************************************COUNTER = 898
+The objective value = 1
+x_5_2_2_21=1.0
+************************************COUNTER = 899
+The objective value = 1
+x_5_1_2_40=1.0
+************************************COUNTER = 900
+The objective value = 1
+x_5_2_2_13=1.0
+************************************COUNTER = 901
+The objective value = 1
+x_5_2_0_60=1.0
+************************************COUNTER = 902
+The objective value = 1
+x_5_0_3_51=1.0
+************************************COUNTER = 903
+The objective value = 1
+x_5_1_2_6=1.0
+************************************COUNTER = 904
+The objective value = 1
+x_5_3_3_56=1.0
+************************************COUNTER = 905
+The objective value = 1
+x_5_0_3_34=1.0
+************************************COUNTER = 906
+The objective value = 1
+x_5_1_2_59=1.0
+************************************COUNTER = 907
+The objective value = 1
+x_5_3_1_52=1.0
+************************************COUNTER = 908
+The objective value = 1
+x_5_0_3_12=1.0
+************************************COUNTER = 909
+The objective value = 1
+x_5_1_3_25=1.0
+************************************COUNTER = 910
+The objective value = 1
+x_5_2_0_27=1.0
+************************************COUNTER = 911
+The objective value = 1
+x_5_3_0_9=1.0
+************************************COUNTER = 912
+The objective value = 1
+x_5_1_2_72=1.0
+************************************COUNTER = 913
+The objective value = 1
+x_5_2_3_58=1.0
+************************************COUNTER = 914
+The objective value = 1
+x_5_0_1_47=1.0
+************************************COUNTER = 915
+The objective value = 1
+x_5_1_0_29=1.0
+************************************COUNTER = 916
+The objective value = 1
+x_5_0_1_6=1.0
+************************************COUNTER = 917
+The objective value = 1
+x_5_0_0_0=1.0
+************************************COUNTER = 918
+The objective value = 1
+x_5_1_0_32=1.0
+************************************COUNTER = 919
+The objective value = 1
+x_5_3_3_66=1.0
+************************************COUNTER = 920
+The objective value = 1
+x_5_1_1_44=1.0
+************************************COUNTER = 921
+The objective value = 1
+x_5_0_0_28=1.0
+************************************COUNTER = 922
+The objective value = 1
+x_5_2_1_35=1.0
+************************************COUNTER = 923
+The objective value = 1
+x_5_2_2_11=1.0
+************************************COUNTER = 924
+The objective value = 1
+x_5_3_0_69=1.0
+************************************COUNTER = 925
+The objective value = 1
+x_5_2_0_42=1.0
+************************************COUNTER = 926
+The objective value = 1
+x_5_2_2_72=1.0
+************************************COUNTER = 927
+The objective value = 1
+x_5_0_0_6=1.0
+************************************COUNTER = 928
+The objective value = 1
+x_5_1_3_75=1.0
+************************************COUNTER = 929
+The objective value = 1
+x_5_0_2_78=1.0
+************************************COUNTER = 930
+The objective value = 1
+x_5_0_2_14=1.0
+************************************COUNTER = 931
+The objective value = 1
+x_5_2_3_43=1.0
+************************************COUNTER = 932
+The objective value = 1
+x_5_1_1_66=1.0
+************************************COUNTER = 933
+The objective value = 1
+x_5_2_0_6=1.0
+************************************COUNTER = 934
+The objective value = 1
+x_5_0_3_67=1.0
+************************************COUNTER = 935
+The objective value = 1
+x_5_2_1_23=1.0
+************************************COUNTER = 936
+The objective value = 1
+x_5_3_3_24=1.0
+************************************COUNTER = 937
+The objective value = 1
+x_5_0_1_4=1.0
+************************************COUNTER = 938
+The objective value = 1
+x_5_1_3_74=1.0
+************************************COUNTER = 939
+The objective value = 1
+x_5_1_2_78=1.0
+************************************COUNTER = 940
+The objective value = 1
+x_5_0_0_20=1.0
+************************************COUNTER = 941
+The objective value = 1
+x_5_3_3_53=1.0
+************************************COUNTER = 942
+The objective value = 0
+x_5_3_0_48=0.9999988336765258
+************************************COUNTER = 943
+The objective value = 1
+x_5_3_0_49=1.0
+************************************COUNTER = 944
+The objective value = 1
+x_5_3_2_36=1.0
+************************************COUNTER = 945
+The objective value = 1
+x_5_1_3_67=1.0
+************************************COUNTER = 946
+The objective value = 1
+x_5_2_0_18=1.0
+************************************COUNTER = 947
+The objective value = 1
+x_5_3_3_63=1.0
+************************************COUNTER = 948
+The objective value = 1
+x_5_3_2_76=1.0
+************************************COUNTER = 949
+The objective value = 1
+x_5_1_0_21=1.0
+************************************COUNTER = 950
+The objective value = 1
+x_5_0_0_60=1.0
+************************************COUNTER = 951
+The objective value = 1
+x_5_1_2_51=1.0
+************************************COUNTER = 952
+The objective value = 1
+x_5_3_1_39=1.0
+************************************COUNTER = 953
+The objective value = 1
+x_5_1_1_3=1.0
+************************************COUNTER = 954
+The objective value = 1
+x_5_2_2_76=1.0
+************************************COUNTER = 955
+The objective value = 1
+x_5_1_0_65=1.0
+************************************COUNTER = 956
+The objective value = 1
+x_5_1_2_58=1.0
+************************************COUNTER = 957
+The objective value = 1
+x_5_1_0_36=1.0
+************************************COUNTER = 958
+The objective value = 1
+x_5_1_3_0=1.0
+************************************COUNTER = 959
+The objective value = 1
+x_5_2_1_43=1.0
+************************************COUNTER = 960
+The objective value = 1
+x_5_3_1_69=1.0
+************************************COUNTER = 961
+The objective value = 1
+x_5_1_2_66=1.0
+************************************COUNTER = 962
+The objective value = 1
+x_5_0_3_23=1.0
+************************************COUNTER = 963
+The objective value = 1
+x_5_2_2_19=1.0
+************************************COUNTER = 964
+The objective value = 1
+x_5_1_0_61=1.0
+************************************COUNTER = 965
+The objective value = 1
+x_5_1_3_42=1.0
+************************************COUNTER = 966
+The objective value = 1
+x_5_3_3_12=1.0
+************************************COUNTER = 967
+The objective value = 1
+x_5_3_3_65=1.0
+************************************COUNTER = 968
+The objective value = 1
+x_5_2_2_32=1.0
+************************************COUNTER = 969
+The objective value = 1
+x_5_1_2_67=1.0
+************************************COUNTER = 970
+The objective value = 1
+x_5_1_0_73=1.0
+************************************COUNTER = 971
+The objective value = 1
+x_5_1_1_53=1.0
+************************************COUNTER = 972
+The objective value = 1
+x_5_0_0_24=1.0
+************************************COUNTER = 973
+The objective value = 1
+x_5_1_3_61=1.0
+************************************COUNTER = 974
+The objective value = 1
+x_5_2_2_61=1.0
+************************************COUNTER = 975
+The objective value = 1
+x_5_1_1_50=1.0
+************************************COUNTER = 976
+The objective value = 1
+x_5_2_3_6=1.0
+************************************COUNTER = 977
+The objective value = 1
+x_5_1_1_1=1.0
+************************************COUNTER = 978
+The objective value = 1
+x_5_2_2_34=1.0
+************************************COUNTER = 979
+The objective value = 1
+x_5_1_0_62=1.0
+************************************COUNTER = 980
+The objective value = 1
+x_5_1_2_11=1.0
+************************************COUNTER = 981
+The objective value = 1
+x_5_2_2_14=1.0
+************************************COUNTER = 982
+The objective value = 1
+x_5_1_0_74=1.0
+************************************COUNTER = 983
+The objective value = 1
+x_5_0_2_74=1.0
+************************************COUNTER = 984
+The objective value = 1
+x_5_1_2_55=1.0
+************************************COUNTER = 985
+The objective value = 1
+x_5_3_1_3=1.0
+************************************COUNTER = 986
+The objective value = 1
+x_5_3_0_13=1.0
+************************************COUNTER = 987
+The objective value = 1
+x_5_3_2_43=1.0
+************************************COUNTER = 988
+The objective value = 1
+x_5_2_0_16=1.0
+************************************COUNTER = 989
+The objective value = 1
+x_5_0_2_2=1.0
+************************************COUNTER = 990
+The objective value = 1
+x_5_2_2_26=1.0
+************************************COUNTER = 991
+The objective value = 1
+x_5_0_1_32=1.0
+************************************COUNTER = 992
+The objective value = 1
+x_5_3_2_68=1.0
+************************************COUNTER = 993
+The objective value = 1
+x_5_1_1_17=1.0
+************************************COUNTER = 994
+The objective value = 1
+x_5_1_1_43=1.0
+************************************COUNTER = 995
+The objective value = 1
+x_5_2_2_27=1.0
+************************************COUNTER = 996
+The objective value = 1
+x_5_2_0_20=1.0
+************************************COUNTER = 997
+The objective value = 1
+x_5_3_2_13=1.0
+************************************COUNTER = 998
+The objective value = 1
+x_5_0_3_52=1.0
+************************************COUNTER = 999
+The objective value = 1
+x_5_1_3_40=1.0
+************************************COUNTER = 1000
+The objective value = 1
+x_5_0_3_50=1.0
+************************************COUNTER = 1001
+The objective value = 1
+x_5_1_1_74=1.0
+************************************COUNTER = 1002
+The objective value = 1
+x_5_0_1_60=1.0
+************************************COUNTER = 1003
+The objective value = 1
+x_5_0_3_74=1.0
+************************************COUNTER = 1004
+The objective value = 1
+x_5_3_3_5=1.0
+************************************COUNTER = 1005
+The objective value = 1
+x_5_0_2_7=1.0
+************************************COUNTER = 1006
+The objective value = 1
+x_5_3_3_74=1.0
+************************************COUNTER = 1007
+The objective value = 1
+x_5_3_2_46=1.0
+************************************COUNTER = 1008
+The objective value = 1
+x_5_1_2_65=1.0
+************************************COUNTER = 1009
+The objective value = 1
+x_5_3_2_51=1.0
+************************************COUNTER = 1010
+The objective value = 1
+x_5_1_0_43=1.0
+************************************COUNTER = 1011
+The objective value = 1
+x_5_2_2_63=1.0
+************************************COUNTER = 1012
+The objective value = 1
+x_5_3_0_70=1.0
+************************************COUNTER = 1013
+The objective value = 1
+x_5_3_3_49=1.0
+************************************COUNTER = 1014
+The objective value = 1
+x_5_0_2_75=1.0
+************************************COUNTER = 1015
+The objective value = 1
+x_5_1_3_11=1.0
+************************************COUNTER = 1016
+The objective value = 1
+x_5_1_0_25=1.0
+************************************COUNTER = 1017
+The objective value = 1
+x_5_2_3_45=1.0
+************************************COUNTER = 1018
+The objective value = 1
+x_5_1_0_79=1.0
+************************************COUNTER = 1019
+The objective value = 1
+x_5_3_1_56=1.0
+************************************COUNTER = 1020
+The objective value = 1
+x_5_1_1_14=1.0
+************************************COUNTER = 1021
+The objective value = 1
+x_5_1_2_44=1.0
+************************************COUNTER = 1022
+The objective value = 1
+x_5_1_2_35=1.0
+************************************COUNTER = 1023
+The objective value = 1
+x_5_1_3_53=1.0
+************************************COUNTER = 1024
+The objective value = 1
+x_5_2_0_54=1.0
+************************************COUNTER = 1025
+The objective value = 1
+x_5_3_1_22=1.0
+************************************COUNTER = 1026
+The objective value = 1
+x_5_2_0_5=1.0
+************************************COUNTER = 1027
+The objective value = 1
+x_5_1_1_5=1.0
+************************************COUNTER = 1028
+The objective value = 1
+x_5_3_3_44=1.0
+************************************COUNTER = 1029
+The objective value = 1
+x_5_0_3_30=1.0
+************************************COUNTER = 1030
+The objective value = 1
+x_5_0_2_55=1.0
+************************************COUNTER = 1031
+The objective value = 1
+x_5_1_2_73=1.0
+************************************COUNTER = 1032
+The objective value = 1
+x_5_0_1_59=1.0
+************************************COUNTER = 1033
+The objective value = 1
+x_5_1_2_46=1.0
+************************************COUNTER = 1034
+The objective value = 1
+x_5_3_1_71=1.0
+************************************COUNTER = 1035
+The objective value = 1
+x_5_2_3_41=1.0
+************************************COUNTER = 1036
+The objective value = 1
+x_5_3_2_53=1.0
+************************************COUNTER = 1037
+The objective value = 1
+x_5_1_3_47=1.0
+************************************COUNTER = 1038
+The objective value = 1
+x_5_2_2_3=1.0
+************************************COUNTER = 1039
+The objective value = 1
+x_5_1_3_73=1.0
+************************************COUNTER = 1040
+The objective value = 1
+x_5_1_0_23=1.0
+************************************COUNTER = 1041
+The objective value = 1
+x_5_3_0_4=1.0
+************************************COUNTER = 1042
+The objective value = 1
+x_5_1_1_4=1.0
+************************************COUNTER = 1043
+The objective value = 1
+x_5_3_3_26=1.0
+************************************COUNTER = 1044
+The objective value = 1
+x_5_2_0_51=1.0
+************************************COUNTER = 1045
+The objective value = 0
+x_5_0_1_25=0.9999992474868089
+************************************COUNTER = 1046
+The objective value = 1
+x_5_3_0_79=1.0
+************************************COUNTER = 1047
+The objective value = 1
+x_5_3_1_7=1.0
+************************************COUNTER = 1048
+The objective value = 1
+x_5_3_3_29=1.0
+************************************COUNTER = 1049
+The objective value = 1
+x_5_3_3_25=1.0
+************************************COUNTER = 1050
+The objective value = 1
+x_5_0_2_5=1.0
+************************************COUNTER = 1051
+The objective value = 1
+x_5_1_3_5=1.0
+************************************COUNTER = 1052
+The objective value = 1
+x_5_1_3_49=1.0
+************************************COUNTER = 1053
+The objective value = 1
+x_5_1_0_3=1.0
+************************************COUNTER = 1054
+The objective value = 1
+x_5_3_0_44=1.0
+************************************COUNTER = 1055
+The objective value = 1
+x_5_2_3_2=1.0
+************************************COUNTER = 1056
+The objective value = 1
+x_5_3_1_44=1.0
+************************************COUNTER = 1057
+The objective value = 1
+x_5_2_3_29=1.0
+************************************COUNTER = 1058
+The objective value = 1
+x_5_2_0_44=1.0
+************************************COUNTER = 1059
+The objective value = 1
+x_5_1_1_65=1.0
+************************************COUNTER = 1060
+The objective value = 1
+x_5_2_1_75=1.0
+************************************COUNTER = 1061
+The objective value = 1
+x_5_1_0_37=1.0
+************************************COUNTER = 1062
+The objective value = 1
+x_5_2_1_18=1.0
+************************************COUNTER = 1063
+The objective value = 1
+x_5_2_1_1=1.0
+************************************COUNTER = 1064
+The objective value = 1
+x_5_1_0_4=1.0
+************************************COUNTER = 1065
+The objective value = 1
+x_5_0_1_65=1.0
+************************************COUNTER = 1066
+The objective value = 1
+x_5_1_0_8=1.0
+************************************COUNTER = 1067
+The objective value = 1
+x_5_1_0_17=1.0
+************************************COUNTER = 1068
+The objective value = 1
+x_5_0_2_52=1.0
+************************************COUNTER = 1069
+The objective value = 1
+x_5_3_2_7=1.0
+************************************COUNTER = 1070
+The objective value = 1
+x_5_1_1_38=1.0
+************************************COUNTER = 1071
+The objective value = 1
+x_5_1_3_20=1.0
+************************************COUNTER = 1072
+The objective value = 1
+x_5_1_1_21=1.0
+************************************COUNTER = 1073
+The objective value = 1
+x_5_2_3_24=1.0
+************************************COUNTER = 1074
+The objective value = 1
+x_5_3_2_5=1.0
+************************************COUNTER = 1075
+The objective value = 1
+x_5_3_0_39=1.0
+************************************COUNTER = 1076
+The objective value = 1
+x_5_2_1_79=1.0
+************************************COUNTER = 1077
+The objective value = 1
+x_5_3_0_43=1.0
+************************************COUNTER = 1078
+The objective value = 1
+x_5_2_3_12=1.0
+************************************COUNTER = 1079
+The objective value = 1
+x_5_1_3_76=1.0
+************************************COUNTER = 1080
+The objective value = 1
+x_5_1_0_55=1.0
+************************************COUNTER = 1081
+The objective value = 1
+x_5_3_1_4=1.0
+************************************COUNTER = 1082
+The objective value = 1
+x_5_3_2_4=1.0
+************************************COUNTER = 1083
+The objective value = 1
+x_5_0_1_7=1.0
+************************************COUNTER = 1084
+The objective value = 1
+x_5_1_2_14=1.0
+************************************COUNTER = 1085
+The objective value = 1
+x_5_0_2_57=1.0
+************************************COUNTER = 1086
+The objective value = 0
+x_5_0_1_3=-2.5205848576253956e-07
+x_5_1_3_71=1.0
+************************************COUNTER = 1087
+The objective value = 1
+x_5_3_1_75=1.0
+************************************COUNTER = 1088
+The objective value = 1
+x_5_3_1_38=1.0
+************************************COUNTER = 1089
+The objective value = 1
+x_5_1_3_52=1.0
+************************************COUNTER = 1090
+The objective value = 1
+x_5_1_2_27=1.0
+************************************COUNTER = 1091
+The objective value = 1
+x_5_1_0_2=1.0
+************************************COUNTER = 1092
+The objective value = 1
+x_5_2_2_66=1.0
+************************************COUNTER = 1093
+The objective value = 1
+x_5_3_3_43=1.0
+************************************COUNTER = 1094
+The objective value = 1
+x_5_3_2_71=1.0
+************************************COUNTER = 1095
+The objective value = 1
+x_5_3_2_42=1.0
+************************************COUNTER = 1096
+The objective value = 1
+x_5_3_1_10=1.0
+************************************COUNTER = 1097
+The objective value = 1
+x_5_3_3_7=1.0
+************************************COUNTER = 1098
+The objective value = 1
+x_5_1_1_33=1.0
+************************************COUNTER = 1099
+The objective value = 1
+x_5_3_0_54=1.0
+************************************COUNTER = 1100
+The objective value = 1
+x_5_1_1_62=1.0
+************************************COUNTER = 1101
+The objective value = 1
+x_5_0_0_79=1.0
+************************************COUNTER = 1102
+The objective value = 1
+x_5_3_2_14=1.0
+************************************COUNTER = 1103
+The objective value = 1
+x_5_0_3_27=1.0
+************************************COUNTER = 1104
+The objective value = 1
+x_5_3_2_78=1.0
+************************************COUNTER = 1105
+The objective value = 1
+x_5_3_3_46=1.0
+************************************COUNTER = 1106
+The objective value = 1
+x_5_1_0_41=1.0
+************************************COUNTER = 1107
+The objective value = 1
+x_5_3_2_66=1.0
+************************************COUNTER = 1108
+The objective value = 1
+x_5_3_1_1=1.0
+************************************COUNTER = 1109
+The objective value = 1
+x_5_3_1_66=1.0
+************************************COUNTER = 1110
+The objective value = 1
+x_5_2_0_4=1.0
+************************************COUNTER = 1111
+The objective value = 1
+x_5_1_0_33=1.0
+************************************COUNTER = 1112
+The objective value = 0
+x_5_3_3_6=1.0
+x_5_3_3_20=-2.5618268189489043e-08
+************************************COUNTER = 1113
+The objective value = 1
+x_5_1_3_16=1.0
+************************************COUNTER = 1114
+The objective value = 1
+x_5_1_1_52=1.0
+************************************COUNTER = 1115
+The objective value = 1
+x_5_1_3_3=1.0
+************************************COUNTER = 1116
+The objective value = 1
+x_5_2_3_32=1.0
+************************************COUNTER = 1117
+The objective value = 1
+x_5_1_0_70=1.0
+************************************COUNTER = 1118
+The objective value = 1
+x_5_0_2_9=1.0
+************************************COUNTER = 1119
+The objective value = 1
+x_5_2_2_43=1.0
+************************************COUNTER = 1120
+The objective value = 1
+x_5_1_0_51=1.0
+************************************COUNTER = 1121
+The objective value = 1
+x_5_3_3_18=1.0
+************************************COUNTER = 1122
+The objective value = 1
+x_5_2_1_14=1.0
+************************************COUNTER = 1123
+The objective value = 1
+x_5_1_2_47=1.0
+************************************COUNTER = 1124
+The objective value = 1
+x_5_0_0_57=1.0
+************************************COUNTER = 1125
+The objective value = 1
+x_5_1_2_5=1.0
+************************************COUNTER = 1126
+The objective value = 1
+x_5_0_3_32=1.0
+************************************COUNTER = 1127
+The objective value = 1
+x_5_3_3_75=1.0
+************************************COUNTER = 1128
+The objective value = 1
+x_5_3_0_59=1.0
+************************************COUNTER = 1129
+The objective value = 1
+x_5_1_2_68=1.0
+************************************COUNTER = 1130
+The objective value = 1
+x_5_1_0_13=1.0
+************************************COUNTER = 1131
+The objective value = 1
+x_5_3_0_24=1.0
+************************************COUNTER = 1132
+The objective value = 1
+x_5_1_1_76=1.0
+************************************COUNTER = 1133
+The objective value = 1
+x_5_2_0_48=1.0
+************************************COUNTER = 1134
+The objective value = 1
+x_5_3_0_12=1.0
+************************************COUNTER = 1135
+The objective value = 1
+x_5_2_2_9=1.0
+************************************COUNTER = 1136
+The objective value = 1
+x_5_2_0_23=1.0
+************************************COUNTER = 1137
+The objective value = 1
+x_5_0_3_72=1.0
+************************************COUNTER = 1138
+The objective value = 1
+x_5_0_2_37=1.0
+************************************COUNTER = 1139
+The objective value = 1
+x_5_0_1_52=1.0
+************************************COUNTER = 1140
+The objective value = 1
+x_5_3_3_61=1.0
+************************************COUNTER = 1141
+The objective value = 1
+x_5_2_1_64=1.0
+************************************COUNTER = 1142
+The objective value = 1
+x_5_2_1_20=1.0
+************************************COUNTER = 1143
+The objective value = 1
+x_5_3_2_1=1.0
+************************************COUNTER = 1144
+The objective value = 1
+x_5_3_2_58=1.0
+************************************COUNTER = 1145
+The objective value = 1
+x_5_2_3_10=1.0
+************************************COUNTER = 1146
+The objective value = 1
+x_5_3_1_76=1.0
+************************************COUNTER = 1147
+The objective value = 1
+x_5_3_2_28=1.0
+************************************COUNTER = 1148
+The objective value = 1
+x_5_1_2_53=1.0
+************************************COUNTER = 1149
+The objective value = 1
+x_5_0_2_3=1.0
+************************************COUNTER = 1150
+The objective value = 1
+x_5_1_0_50=1.0
+************************************COUNTER = 1151
+The objective value = 1
+x_5_1_2_33=1.0
+************************************COUNTER = 1152
+The objective value = 1
+x_5_2_0_47=1.0
+************************************COUNTER = 1153
+The objective value = 1
+x_5_3_2_44=1.0
+************************************COUNTER = 1154
+The objective value = 1
+x_5_2_2_62=1.0
+************************************COUNTER = 1155
+The objective value = 1
+x_5_3_2_34=1.0
+************************************COUNTER = 1156
+The objective value = 1
+x_5_3_3_8=1.0
+************************************COUNTER = 1157
+The objective value = 1
+x_5_1_3_66=1.0
+************************************COUNTER = 1158
+The objective value = 1
+x_5_1_1_77=1.0
+************************************COUNTER = 1159
+The objective value = 1
+x_5_3_3_16=1.0
+************************************COUNTER = 1160
+The objective value = 1
+x_5_1_2_76=1.0
+************************************COUNTER = 1161
+The objective value = 1
+x_5_3_1_29=1.0
+************************************COUNTER = 1162
+The objective value = 1
+x_5_3_0_16=1.0
+************************************COUNTER = 1163
+The objective value = 1
+x_5_2_0_63=1.0
+************************************COUNTER = 1164
+The objective value = 1
+x_5_1_1_42=1.0
+************************************COUNTER = 1165
+The objective value = 1
+x_5_1_3_13=1.0
+************************************COUNTER = 1166
+The objective value = 1
+x_5_3_3_57=1.0
+************************************COUNTER = 1167
+The objective value = 1
+x_5_0_2_43=1.0
+************************************COUNTER = 1168
+The objective value = 1
+x_5_3_1_2=1.0
+************************************COUNTER = 1169
+The objective value = 1
+x_5_1_3_2=1.0
+************************************COUNTER = 1170
+The objective value = 1
+x_5_3_2_3=1.0
+************************************COUNTER = 1171
+The objective value = 1
+x_5_3_0_33=1.0
+************************************COUNTER = 1172
+The objective value = 1
+x_5_1_1_30=1.0
+************************************COUNTER = 1173
+The objective value = 1
+x_5_3_3_14=1.0
+************************************COUNTER = 1174
+The objective value = 1
+x_5_3_3_32=1.0
+************************************COUNTER = 1175
+The objective value = 1
+x_5_3_3_33=1.0
+************************************COUNTER = 1176
+The objective value = 1
+x_5_1_2_1=1.0
+************************************COUNTER = 1177
+The objective value = 1
+x_5_3_0_73=1.0
+************************************COUNTER = 1178
+The objective value = 1
+x_5_0_2_35=1.0
+************************************COUNTER = 1179
+The objective value = 1
+x_5_1_1_57=1.0
+************************************COUNTER = 1180
+The objective value = 1
+x_5_3_3_77=1.0
+************************************COUNTER = 1181
+The objective value = 1
+x_5_3_1_11=1.0
+************************************COUNTER = 1182
+The objective value = 1
+x_5_3_3_71=1.0
+************************************COUNTER = 1183
+The objective value = 1
+x_5_2_1_71=1.0
+************************************COUNTER = 1184
+The objective value = 1
+x_5_3_0_7=1.0
+************************************COUNTER = 1185
+The objective value = 1
+x_5_3_3_13=1.0
+************************************COUNTER = 1186
+The objective value = 1
+x_5_3_1_23=1.0
+************************************COUNTER = 1187
+The objective value = 1
+x_5_3_2_12=1.0
+************************************COUNTER = 1188
+The objective value = 1
+x_5_1_1_79=1.0
+************************************COUNTER = 1189
+The objective value = 1
+x_5_3_0_51=1.0
+************************************COUNTER = 1190
+The objective value = 1
+x_5_3_3_37=1.0
+************************************COUNTER = 1191
+The objective value = 1
+x_5_3_0_38=1.0
+************************************COUNTER = 1192
+The objective value = 1
+x_5_1_0_5=1.0
+************************************COUNTER = 1193
+The objective value = 1
+x_5_2_3_14=1.0
+************************************COUNTER = 1194
+The objective value = 1
+x_5_2_1_42=1.0
+************************************COUNTER = 1195
+The objective value = 1
+x_5_1_3_26=1.0
+************************************COUNTER = 1196
+The objective value = 1
+x_5_1_2_0=1.0
+************************************COUNTER = 1197
+The objective value = 1
+x_5_3_2_77=1.0
+************************************COUNTER = 1198
+The objective value = 1
+x_5_3_0_21=1.0
+************************************COUNTER = 1199
+The objective value = 1
+x_5_1_1_72=1.0
+************************************COUNTER = 1200
+The objective value = 1
+x_5_3_1_58=1.0
+************************************COUNTER = 1201
+The objective value = 1
+x_5_1_0_52=1.0
+************************************COUNTER = 1202
+The objective value = 1
+x_5_3_1_9=1.0
+************************************COUNTER = 1203
+The objective value = 1
+x_5_1_0_27=1.0
+************************************COUNTER = 1204
+The objective value = 1
+x_5_1_3_56=1.0
+************************************COUNTER = 1205
+The objective value = 1
+x_5_1_3_32=1.0
+************************************COUNTER = 1206
+The objective value = 1
+x_5_3_2_48=1.0
+************************************COUNTER = 1207
+The objective value = 1
+x_5_1_3_8=1.0
+************************************COUNTER = 1208
+The objective value = 1
+x_5_1_0_12=1.0
+************************************COUNTER = 1209
+The objective value = 1
+x_5_3_1_32=1.0
+************************************COUNTER = 1210
+The objective value = 1
+x_5_1_1_56=1.0
+************************************COUNTER = 1211
+The objective value = 1
+x_5_2_2_64=1.0
+************************************COUNTER = 1212
+The objective value = 1
+x_5_2_2_65=1.0
+************************************COUNTER = 1213
+The objective value = 1
+x_5_0_0_46=1.0
+************************************COUNTER = 1214
+The objective value = 1
+x_5_3_0_40=1.0
+************************************COUNTER = 1215
+The objective value = 1
+x_5_1_3_41=1.0
+************************************COUNTER = 1216
+The objective value = 1
+x_5_1_0_15=1.0
+************************************COUNTER = 1217
+The objective value = 1
+x_5_1_2_60=1.0
+************************************COUNTER = 1218
+The objective value = 1
+x_5_3_1_28=1.0
+************************************COUNTER = 1219
+The objective value = 1
+x_5_3_0_52=1.0
+************************************COUNTER = 1220
+The objective value = 1
+x_5_0_2_50=1.0
+************************************COUNTER = 1221
+The objective value = 1
+x_5_1_1_60=1.0
+************************************COUNTER = 1222
+The objective value = 1
+x_5_0_3_64=1.0
+************************************COUNTER = 1223
+The objective value = 1
+x_5_1_0_46=1.0
+************************************COUNTER = 1224
+The objective value = 1
+x_5_3_2_6=1.0
+************************************COUNTER = 1225
+The objective value = 1
+x_5_0_1_3=1.0
+************************************COUNTER = 1226
+The objective value = 1
+x_5_3_2_15=1.0
+************************************COUNTER = 1227
+The objective value = 1
+x_5_3_2_65=1.0
+************************************COUNTER = 1228
+The objective value = 1
+x_5_1_1_34=1.0
+************************************COUNTER = 1229
+The objective value = 1
+x_5_1_2_9=1.0
+************************************COUNTER = 1230
+The objective value = 1
+x_5_3_2_24=1.0
+************************************COUNTER = 1231
+The objective value = 1
+x_5_1_0_14=1.0
+************************************COUNTER = 1232
+The objective value = 1
+x_5_1_2_30=1.0
+************************************COUNTER = 1233
+The objective value = 1
+x_5_1_1_54=1.0
+************************************COUNTER = 1234
+The objective value = 1
+x_5_3_1_24=1.0
+************************************COUNTER = 1235
+The objective value = 1
+x_5_1_2_34=1.0
+************************************COUNTER = 1236
+The objective value = 1
+x_5_3_0_2=1.0
+************************************COUNTER = 1237
+The objective value = 1
+x_5_1_2_29=1.0
+************************************COUNTER = 1238
+The objective value = 1
+x_5_1_0_16=1.0
+************************************COUNTER = 1239
+The objective value = 1
+x_5_1_2_64=1.0
+************************************COUNTER = 1240
+The objective value = 1
+x_5_3_1_57=1.0
+************************************COUNTER = 1241
+The objective value = 1
+x_5_3_0_61=1.0
+
+Integral Distinguisher Found!
+
+Those are the coordinates set to zero: 
+x_5_2_3_63
+x_5_3_3_59
+x_5_0_3_18
+x_5_0_1_45
+x_5_2_2_77
+x_5_3_0_64
+x_5_1_1_64
+x_5_0_1_31
+x_5_1_0_48
+x_5_0_0_37
+x_5_1_1_31
+x_5_3_0_0
+x_5_1_0_22
+x_5_1_2_36
+x_5_2_0_49
+x_5_2_1_22
+x_5_2_2_53
+x_5_0_3_77
+x_5_3_0_45
+x_5_1_1_39
+x_5_0_2_36
+x_5_2_3_18
+x_5_3_1_41
+x_5_3_3_47
+x_5_0_3_19
+x_5_2_3_79
+x_5_0_0_12
+x_5_2_3_52
+x_5_0_0_55
+x_5_0_0_21
+x_5_0_0_18
+x_5_2_0_52
+x_5_0_1_64
+x_5_0_3_59
+x_5_0_2_24
+x_5_1_1_59
+x_5_3_0_30
+x_5_0_1_75
+x_5_0_3_17
+x_5_2_3_74
+x_5_3_0_3
+x_5_3_1_27
+x_5_3_0_26
+x_5_2_2_70
+x_5_0_0_31
+x_5_2_2_20
+x_5_2_3_27
+x_5_0_2_71
+x_5_2_2_35
+x_5_0_0_40
+x_5_3_0_15
+x_5_0_3_0
+x_5_0_1_9
+x_5_0_3_6
+x_5_0_0_50
+x_5_0_3_60
+x_5_2_0_73
+x_5_0_2_29
+x_5_3_2_38
+x_5_2_2_57
+x_5_2_1_19
+x_5_0_2_68
+x_5_3_2_50
+x_5_2_3_34
+x_5_1_2_63
+x_5_0_0_22
+x_5_0_2_61
+x_5_3_2_64
+x_5_1_2_16
+x_5_3_0_27
+x_5_3_1_20
+x_5_3_3_34
+x_5_2_0_61
+x_5_0_2_53
+x_5_0_3_24
+x_5_1_3_48
+x_5_2_1_67
+x_5_3_0_60
+x_5_0_0_76
+x_5_0_0_72
+x_5_3_0_72
+x_5_1_1_11
+x_5_2_2_47
+x_5_0_1_51
+x_5_0_2_0
+x_5_0_2_49
+x_5_2_1_10
+x_5_0_2_44
+x_5_2_2_28
+x_5_2_0_15
+x_5_0_3_48
+x_5_2_1_16
+x_5_3_0_31
+x_5_0_2_60
+x_5_1_0_24
+x_5_0_0_59
+x_5_0_2_30
+x_5_0_1_24
+x_5_2_3_67
+x_5_1_2_12
+x_5_0_2_11
+x_5_0_1_12
+x_5_1_0_45
+x_5_1_0_60
+x_5_0_3_4
+x_5_2_3_72
+x_5_0_2_16
+x_5_2_0_78
+x_5_0_2_62
+x_5_1_2_32
+x_5_0_2_31
+x_5_0_3_11
+x_5_2_2_74
+x_5_2_2_46
+x_5_1_2_28
+x_5_3_0_28
+x_5_0_0_11
+x_5_2_1_63
+x_5_2_0_72
+x_5_3_0_56
+x_5_0_0_3
+x_5_2_1_9
+x_5_2_1_58
+x_5_3_1_79
+x_5_2_0_50
+x_5_1_1_18
+x_5_1_0_0
+x_5_2_3_68
+x_5_1_2_38
+x_5_1_0_11
+x_5_0_2_42
+x_5_0_3_40
+x_5_0_3_22
+x_5_1_3_31
+x_5_0_1_23
+x_5_1_0_78
+x_5_0_3_69
+x_5_0_1_28
+x_5_2_1_45
+x_5_1_1_19
+x_5_0_1_48
+x_5_2_3_71
+x_5_3_3_78
+x_5_3_1_36
+x_5_1_0_19
+x_5_0_2_48
+x_5_3_2_55
+x_5_1_1_22
+x_5_0_1_1
+x_5_1_1_2
+x_5_2_2_5
+x_5_3_0_71
+x_5_1_1_55
+x_5_3_0_47
+x_5_1_0_6
+x_5_2_3_76
+x_5_1_2_54
+x_5_3_3_73
+x_5_0_2_1
+x_5_0_3_31
+x_5_2_3_8
+x_5_1_0_18
+x_5_2_1_27
+x_5_0_2_72
+x_5_1_0_31
+x_5_2_2_56
+x_5_1_1_40
+x_5_3_1_31
+x_5_0_3_55
+x_5_1_3_10
+x_5_1_3_24
+x_5_3_2_49
+x_5_2_1_60
+x_5_2_3_36
+x_5_0_2_34
+x_5_0_2_77
+x_5_0_0_29
+x_5_3_2_73
+x_5_2_3_4
+x_5_0_0_63
+x_5_1_3_1
+x_5_1_2_18
+x_5_1_0_77
+x_5_0_3_63
+x_5_0_3_20
+x_5_3_3_45
+x_5_3_1_8
+x_5_1_2_20
+x_5_0_3_45
+x_5_2_0_43
+x_5_0_0_70
+x_5_3_1_47
+x_5_2_3_77
+x_5_2_0_76
+x_5_2_0_32
+x_5_1_3_35
+x_5_1_1_69
+x_5_0_3_8
+x_5_2_3_5
+x_5_0_1_63
+x_5_3_0_14
+x_5_1_1_63
+x_5_3_0_46
+x_5_0_3_71
+x_5_0_3_49
+x_5_2_1_41
+x_5_1_0_20
+x_5_0_0_69
+x_5_0_1_18
+x_5_2_3_9
+x_5_2_1_46
+x_5_0_3_1
+x_5_0_0_36
+x_5_1_0_1
+x_5_3_0_8
+x_5_3_3_40
+x_5_0_2_10
+x_5_1_0_38
+x_5_1_2_22
+x_5_2_1_32
+x_5_1_0_49
+x_5_3_2_62
+x_5_2_3_70
+x_5_2_2_49
+x_5_0_1_54
+x_5_0_2_63
+x_5_2_3_17
+x_5_1_0_71
+x_5_3_1_37
+x_5_0_3_41
+x_5_2_2_78
+x_5_0_1_43
+x_5_3_0_37
+x_5_0_1_56
+x_5_1_2_61
+x_5_0_0_49
+x_5_1_3_63
+x_5_1_0_63
+x_5_3_1_68
+x_5_2_2_33
+x_5_2_0_13
+x_5_2_0_8
+x_5_0_0_41
+x_5_0_1_58
+x_5_3_0_6
+x_5_3_3_60
+x_5_0_1_36
+x_5_2_3_54
+x_5_1_1_41
+x_5_3_3_54
+x_5_1_3_57
+x_5_1_3_36
+x_5_0_1_20
+x_5_3_1_16
+x_5_3_0_35
+x_5_2_0_55
+x_5_3_2_10
+x_5_2_1_29
+x_5_0_0_23
+x_5_0_1_14
+x_5_2_3_35
+x_5_1_2_31
+x_5_0_1_27
+x_5_1_0_7
+x_5_1_3_19
+x_5_0_3_43
+x_5_3_0_53
+x_5_2_3_7
+x_5_2_3_16
+x_5_0_2_59
+x_5_1_1_49
+x_5_0_1_8
+x_5_3_3_51
+x_5_3_1_46
+x_5_0_1_73
+x_5_0_1_62
+x_5_1_3_27
+x_5_0_3_9
+x_5_3_1_15
+x_5_0_3_33
+x_5_0_0_38
+x_5_3_0_23
+x_5_0_1_70
+x_5_0_2_27
+x_5_1_3_62
+x_5_1_2_70
+x_5_1_0_59
+x_5_0_1_22
+x_5_2_1_50
+x_5_0_0_10
+x_5_1_2_23
+x_5_0_1_38
+x_5_2_1_15
+x_5_3_0_11
+x_5_2_0_22
+x_5_1_3_18
+x_5_2_1_26
+x_5_2_2_38
+x_5_1_2_50
+x_5_3_0_78
+x_5_0_1_50
+x_5_2_3_78
+x_5_2_1_74
+x_5_1_1_61
+x_5_2_3_51
+x_5_2_2_42
+x_5_1_2_17
+x_5_0_2_58
+x_5_1_2_39
+x_5_0_1_79
+x_5_0_3_46
+x_5_1_3_34
+x_5_2_0_71
+x_5_3_0_17
+x_5_1_2_37
+x_5_2_2_2
+x_5_0_1_37
+x_5_2_2_23
+x_5_1_1_9
+x_5_3_1_30
+x_5_3_1_55
+x_5_0_3_79
+x_5_0_2_45
+x_5_0_0_45
+x_5_3_0_50
+x_5_3_3_48
+x_5_2_3_73
+x_5_2_3_1
+x_5_1_2_49
+x_5_1_1_16
+x_5_0_0_48
+x_5_0_2_76
+x_5_1_2_41
+x_5_0_1_41
+x_5_0_2_41
+x_5_2_2_40
+x_5_1_3_65
+x_5_2_3_15
+x_5_2_0_79
+x_5_0_3_15
+x_5_2_0_11
+x_5_3_1_74
+x_5_3_3_17
+x_5_2_0_2
+x_5_0_0_27
+x_5_1_0_56
+x_5_1_3_78
+x_5_0_0_75
+x_5_2_3_26
+x_5_3_2_21
+x_5_1_0_44
+x_5_3_2_27
+x_5_0_1_29
+x_5_3_3_58
+x_5_0_2_6
+x_5_1_1_70
+x_5_1_3_23
+x_5_1_3_28
+x_5_1_3_17
+x_5_0_3_56
+x_5_2_0_31
+x_5_2_3_62
+x_5_1_3_44
+x_5_1_3_46
+x_5_0_3_78
+x_5_1_2_43
+x_5_3_3_70
+x_5_2_2_16
+x_5_1_1_15
+x_5_0_3_75
+x_5_3_1_42
+x_5_1_1_20
+x_5_2_0_46
+x_5_1_0_75
+x_5_1_3_12
+x_5_2_3_49
+x_5_0_1_2
+x_5_0_1_55
+x_5_0_3_65
+x_5_0_3_10
+x_5_0_3_61
+x_5_0_1_19
+x_5_3_0_20
+x_5_0_2_28
+x_5_0_0_78
+x_5_1_3_39
+x_5_0_2_26
+x_5_3_2_30
+x_5_1_1_78
+x_5_0_2_66
+x_5_1_1_28
+x_5_0_2_46
+x_5_2_1_52
+x_5_2_3_37
+x_5_2_0_21
+x_5_2_3_31
+x_5_2_3_0
+x_5_3_2_16
+x_5_3_1_12
+x_5_1_2_7
+x_5_3_0_22
+x_5_0_2_38
+x_5_3_1_77
+x_5_3_2_31
+x_5_0_3_76
+x_5_3_0_42
+x_5_2_1_31
+x_5_0_3_42
+x_5_2_2_71
+x_5_3_0_1
+x_5_0_1_33
+x_5_3_2_17
+x_5_0_0_43
+x_5_3_3_15
+x_5_2_3_20
+x_5_0_0_35
+x_5_2_3_19
+x_5_3_2_52
+x_5_3_1_62
+x_5_1_3_21
+x_5_0_1_49
+x_5_1_3_22
+x_5_3_0_25
+x_5_0_2_67
+x_5_0_3_73
+x_5_3_2_22
+x_5_0_2_51
+x_5_1_0_42
+x_5_1_0_47
+x_5_3_2_20
+x_5_1_0_30
+x_5_2_2_29
+x_5_0_2_32
+x_5_0_0_73
+x_5_2_2_15
+x_5_2_2_68
+x_5_2_1_66
+x_5_0_0_39
+x_5_0_2_25
+x_5_1_2_62
+x_5_0_1_15
+x_5_2_1_28
+x_5_0_0_58
+x_5_0_1_21
+x_5_0_0_15
+x_5_2_3_40
+x_5_2_2_50
+x_5_0_1_72
+x_5_0_1_44
+x_5_2_2_67
+x_5_0_2_33
+x_5_0_2_64
+x_5_0_3_21
+x_5_0_1_74
+x_5_2_2_41
+x_5_3_2_72
+x_5_3_0_34
+x_5_2_2_58
+x_5_0_3_2
+x_5_3_1_48
+x_5_0_0_30
+x_5_1_0_39
+x_5_0_2_69
+x_5_3_1_40
+x_5_0_3_29
+x_5_2_2_55
+x_5_2_1_8
+x_5_2_0_36
+x_5_2_2_73
+x_5_2_0_7
+x_5_1_0_64
+x_5_2_0_30
+x_5_0_1_17
+x_5_0_1_77
+x_5_3_1_67
+x_5_3_3_11
+x_5_0_1_46
+x_5_1_2_10
+x_5_3_3_22
+x_5_3_3_2
+x_5_1_2_15
+x_5_1_2_21
+x_5_2_2_6
+x_5_2_1_49
+x_5_2_2_59
+x_5_1_1_32
+x_5_0_3_39
+x_5_3_3_55
+x_5_1_0_69
+x_5_2_1_59
+x_5_0_1_76
+x_5_0_0_61
+x_5_1_3_58
+x_5_2_1_6
+x_5_3_0_77
+x_5_1_1_71
+x_5_0_1_61
+x_5_0_0_9
+x_5_2_3_75
+x_5_1_3_14
+x_5_3_0_18
+x_5_1_3_15
+x_5_3_1_21
+x_5_2_3_23
+x_5_0_1_57
+x_5_2_3_56
+x_5_2_2_17
+x_5_2_0_12
+x_5_0_0_33
+x_5_1_1_23
+x_5_3_3_23
+x_5_2_1_3
+x_5_1_1_48
+x_5_0_0_8
+x_5_3_0_65
+x_5_2_1_70
+x_5_3_1_78
+x_5_0_2_21
+x_5_2_3_50
+x_5_0_1_34
+x_5_2_3_28
+x_5_0_2_12
+x_5_2_1_36
+x_5_3_3_31
+x_5_2_0_41
+x_5_2_1_62
+x_5_1_1_7
+x_5_2_1_56
+x_5_2_2_60
+x_5_0_0_47
+x_5_0_1_67
+x_5_2_2_52
+x_5_2_3_33
+x_5_0_2_23
+x_5_0_1_53
+x_5_2_1_37
+x_5_0_1_78
+x_5_2_3_53
+x_5_0_3_26
+x_5_2_1_0
+x_5_2_0_33
+x_5_3_3_72
+x_5_2_1_25
+x_5_1_3_60
+x_5_0_3_47
+x_5_0_2_79
+x_5_2_1_48
+x_5_0_0_53
+x_5_0_2_22
+x_5_2_2_75
+x_5_0_0_32
+x_5_3_1_35
+x_5_3_0_55
+x_5_0_0_4
+x_5_3_0_67
+x_5_0_0_52
+x_5_0_1_35
+x_5_3_2_37
+x_5_0_0_54
+x_5_3_1_13
+x_5_0_3_16
+x_5_0_0_2
+x_5_2_2_22
+x_5_3_2_75
+x_5_3_1_50
+x_5_1_2_42
+x_5_2_3_61
+x_5_3_3_50
+x_5_1_2_77
+x_5_1_2_4
+x_5_1_1_68
+x_5_3_1_53
+x_5_1_1_13
+x_5_0_0_77
+x_5_2_0_35
+x_5_0_2_20
+x_5_3_2_8
+x_5_0_3_44
+x_5_0_1_42
+x_5_3_1_34
+x_5_2_0_0
+x_5_2_3_25
+x_5_0_1_5
+x_5_2_3_46
+x_5_2_1_68
+x_5_2_1_2
+x_5_3_2_47
+x_5_3_1_19
+x_5_1_3_79
+x_5_2_3_66
+x_5_1_3_68
+x_5_2_0_75
+x_5_1_1_36
+x_5_2_0_56
+x_5_3_2_59
+x_5_3_2_11
+x_5_0_3_38
+x_5_2_0_64
+x_5_3_0_62
+x_5_3_0_74
+x_5_3_2_19
+x_5_3_2_54
+x_5_2_2_0
+x_5_2_3_69
+x_5_3_1_25
+x_5_0_3_5
+x_5_1_2_8
+x_5_2_2_30
+x_5_2_1_76
+x_5_3_3_68
+x_5_3_2_2
+x_5_0_2_18
+x_5_2_2_24
+x_5_2_0_38
+x_5_1_0_53
+x_5_2_1_61
+x_5_0_0_26
+x_5_0_3_37
+x_5_1_1_51
+x_5_1_2_3
+x_5_2_1_51
+x_5_0_1_40
+x_5_1_3_29
+x_5_1_2_69
+x_5_0_2_47
+x_5_2_2_1
+x_5_2_3_60
+x_5_2_0_34
+x_5_1_3_7
+x_5_3_2_39
+x_5_2_0_14
+x_5_1_1_25
+x_5_1_3_77
+x_5_2_1_34
+x_5_2_0_25
+x_5_3_2_33
+x_5_3_2_63
+x_5_2_1_17
+x_5_3_2_61
+x_5_3_1_43
+x_5_0_0_66
+x_5_3_3_35
+x_5_3_1_61
+x_5_3_0_75
+x_5_2_1_53
+x_5_3_1_65
+x_5_2_0_69
+x_5_1_2_19
+x_5_2_1_77
+x_5_2_0_68
+x_5_0_2_17
+x_5_2_0_19
+x_5_0_0_67
+x_5_1_3_72
+x_5_0_0_16
+x_5_2_0_66
+x_5_1_1_10
+x_5_2_2_51
+x_5_2_0_17
+x_5_3_0_5
+x_5_1_3_50
+x_5_0_3_13
+x_5_3_0_19
+x_5_1_1_12
+x_5_0_1_68
+x_5_1_1_45
+x_5_2_3_55
+x_5_3_3_1
+x_5_2_0_74
+x_5_3_1_18
+x_5_0_1_0
+x_5_0_1_30
+x_5_0_3_3
+x_5_0_2_13
+x_5_0_3_70
+x_5_0_0_14
+x_5_3_1_60
+x_5_0_0_44
+x_5_3_1_14
+x_5_0_2_73
+x_5_2_1_7
+x_5_0_3_68
+x_5_1_0_9
+x_5_2_0_70
+x_5_2_1_57
+x_5_2_2_44
+x_5_2_1_44
+x_5_3_3_67
+x_5_3_3_28
+x_5_1_1_26
+x_5_2_1_39
+x_5_0_1_10
+x_5_2_3_42
+x_5_2_2_39
+x_5_2_3_30
+x_5_1_3_33
+x_5_2_0_62
+x_5_2_1_54
+x_5_2_2_45
+x_5_0_0_71
+x_5_2_1_11
+x_5_3_0_66
+x_5_2_0_28
+x_5_1_1_6
+x_5_3_1_5
+x_5_2_0_24
+x_5_2_0_29
+x_5_2_0_53
+x_5_0_2_56
+x_5_1_0_67
+x_5_2_1_30
+x_5_1_1_0
+x_5_1_0_35
+x_5_2_1_55
+x_5_3_2_70
+x_5_1_0_76
+x_5_3_1_0
+x_5_1_2_57
+x_5_2_2_31
+x_5_0_2_65
+x_5_2_0_57
+x_5_0_1_39
+x_5_1_2_48
+x_5_1_2_56
+x_5_3_3_52
+x_5_3_2_0
+x_5_3_3_27
+x_5_3_1_26
+x_5_0_3_53
+x_5_3_0_68
+x_5_2_2_54
+x_5_2_3_22
+x_5_0_3_66
+x_5_0_3_58
+x_5_0_1_66
+x_5_0_1_71
+x_5_1_3_30
+x_5_0_0_1
+x_5_2_2_79
+x_5_3_3_0
+x_5_1_0_28
+x_5_0_2_8
+x_5_3_2_29
+x_5_1_0_66
+x_5_2_0_67
+x_5_1_1_37
+x_5_3_2_60
+x_5_1_1_58
+x_5_0_3_54
+x_5_2_0_1
+x_5_2_1_33
+x_5_0_0_42
+x_5_0_3_14
+x_5_0_3_36
+x_5_0_3_35
+x_5_2_2_12
+x_5_2_3_13
+x_5_2_3_65
+x_5_1_1_35
+x_5_2_2_48
+x_5_3_1_59
+x_5_0_0_68
+x_5_1_3_45
+x_5_1_3_64
+x_5_2_2_8
+x_5_3_2_57
+x_5_1_2_26
+x_5_1_3_55
+x_5_0_0_64
+x_5_3_2_26
+x_5_3_0_29
+x_5_0_3_62
+x_5_1_0_26
+x_5_0_0_65
+x_5_0_3_7
+x_5_2_0_26
+x_5_1_2_24
+x_5_2_0_59
+x_5_1_2_74
+x_5_1_1_73
+x_5_2_0_45
+x_5_2_1_72
+x_5_1_2_52
+x_5_2_3_59
+x_5_1_2_45
+x_5_2_3_57
+x_5_2_3_11
+x_5_1_2_2
+x_5_3_3_30
+x_5_3_3_41
+x_5_0_0_51
+x_5_1_2_75
+x_5_0_0_7
+x_5_2_0_9
+x_5_0_0_56
+x_5_2_2_25
+x_5_1_3_43
+x_5_0_0_62
+x_5_3_2_9
+x_5_2_0_39
+x_5_3_1_33
+x_5_0_2_70
+x_5_2_3_38
+x_5_3_1_70
+x_5_3_0_41
+x_5_3_3_76
+x_5_1_1_47
+x_5_3_2_32
+x_5_3_1_64
+x_5_1_3_37
+x_5_2_1_38
+x_5_0_2_40
+x_5_1_3_59
+x_5_2_3_3
+x_5_0_1_11
+x_5_3_2_45
+x_5_0_2_19
+x_5_2_3_64
+x_5_2_0_58
+x_5_2_0_3
+x_5_3_1_73
+x_5_0_0_34
+x_5_2_0_40
+x_5_0_3_25
+x_5_3_2_41
+x_5_2_2_7
+x_5_3_0_76
+x_5_2_0_10
+x_5_1_3_38
+x_5_2_3_47
+x_5_2_3_48
+x_5_0_1_16
+x_5_0_2_39
+x_5_2_1_24
+x_5_0_0_13
+x_5_2_1_5
+x_5_2_1_13
+x_5_2_1_21
+x_5_2_1_78
+x_5_3_3_21
+x_5_1_0_57
+x_5_1_3_51
+x_5_1_1_75
+x_5_2_3_44
+x_5_0_1_69
+x_5_2_1_12
+x_5_3_3_38
+x_5_1_0_40
+x_5_2_3_21
+x_5_0_0_25
+x_5_3_2_25
+x_5_3_2_35
+x_5_2_2_37
+x_5_2_1_73
+x_5_0_0_5
+x_5_0_3_57
+x_5_3_3_19
+x_5_1_2_13
+x_5_0_1_26
+x_5_1_0_34
+x_5_0_3_28
+x_5_2_1_4
+x_5_0_0_17
+x_5_2_1_69
+x_5_2_2_4
+x_5_0_2_4
+x_5_2_1_40
+x_5_3_3_42
+x_5_2_3_39
+x_5_0_0_19
+x_5_1_0_72
+x_5_2_0_37
+x_5_3_0_58
+x_5_2_2_18
+x_5_1_0_10
+x_5_2_0_77
+x_5_3_3_9
+x_5_3_1_63
+x_5_3_0_32
+x_5_3_2_69
+x_5_3_1_72
+x_5_0_1_13
+x_5_3_3_3
+x_5_2_1_47
+x_5_2_0_65
+x_5_3_2_23
+x_5_0_2_15
+x_5_1_0_68
+x_5_3_1_51
+x_5_3_1_17
+x_5_2_2_69
+x_5_1_3_69
+x_5_0_0_74
+x_5_1_1_8
+x_5_3_3_79
+x_5_1_1_29
+x_5_2_1_65
+x_5_3_2_56
+x_5_2_2_21
+x_5_1_2_40
+x_5_2_2_13
+x_5_2_0_60
+x_5_0_3_51
+x_5_1_2_6
+x_5_3_3_56
+x_5_0_3_34
+x_5_1_2_59
+x_5_3_1_52
+x_5_0_3_12
+x_5_1_3_25
+x_5_2_0_27
+x_5_3_0_9
+x_5_1_2_72
+x_5_2_3_58
+x_5_0_1_47
+x_5_1_0_29
+x_5_0_1_6
+x_5_0_0_0
+x_5_1_0_32
+x_5_3_3_66
+x_5_1_1_44
+x_5_0_0_28
+x_5_2_1_35
+x_5_2_2_11
+x_5_3_0_69
+x_5_2_0_42
+x_5_2_2_72
+x_5_0_0_6
+x_5_1_3_75
+x_5_0_2_78
+x_5_0_2_14
+x_5_2_3_43
+x_5_1_1_66
+x_5_2_0_6
+x_5_0_3_67
+x_5_2_1_23
+x_5_3_3_24
+x_5_0_1_4
+x_5_1_3_74
+x_5_1_2_78
+x_5_0_0_20
+x_5_3_3_53
+x_5_3_0_48
+x_5_3_0_49
+x_5_3_2_36
+x_5_1_3_67
+x_5_2_0_18
+x_5_3_3_63
+x_5_3_2_76
+x_5_1_0_21
+x_5_0_0_60
+x_5_1_2_51
+x_5_3_1_39
+x_5_1_1_3
+x_5_2_2_76
+x_5_1_0_65
+x_5_1_2_58
+x_5_1_0_36
+x_5_1_3_0
+x_5_2_1_43
+x_5_3_1_69
+x_5_1_2_66
+x_5_0_3_23
+x_5_2_2_19
+x_5_1_0_61
+x_5_1_3_42
+x_5_3_3_12
+x_5_3_3_65
+x_5_2_2_32
+x_5_1_2_67
+x_5_1_0_73
+x_5_1_1_53
+x_5_0_0_24
+x_5_1_3_61
+x_5_2_2_61
+x_5_1_1_50
+x_5_2_3_6
+x_5_1_1_1
+x_5_2_2_34
+x_5_1_0_62
+x_5_1_2_11
+x_5_2_2_14
+x_5_1_0_74
+x_5_0_2_74
+x_5_1_2_55
+x_5_3_1_3
+x_5_3_0_13
+x_5_3_2_43
+x_5_2_0_16
+x_5_0_2_2
+x_5_2_2_26
+x_5_0_1_32
+x_5_3_2_68
+x_5_1_1_17
+x_5_1_1_43
+x_5_2_2_27
+x_5_2_0_20
+x_5_3_2_13
+x_5_0_3_52
+x_5_1_3_40
+x_5_0_3_50
+x_5_1_1_74
+x_5_0_1_60
+x_5_0_3_74
+x_5_3_3_5
+x_5_0_2_7
+x_5_3_3_74
+x_5_3_2_46
+x_5_1_2_65
+x_5_3_2_51
+x_5_1_0_43
+x_5_2_2_63
+x_5_3_0_70
+x_5_3_3_49
+x_5_0_2_75
+x_5_1_3_11
+x_5_1_0_25
+x_5_2_3_45
+x_5_1_0_79
+x_5_3_1_56
+x_5_1_1_14
+x_5_1_2_44
+x_5_1_2_35
+x_5_1_3_53
+x_5_2_0_54
+x_5_3_1_22
+x_5_2_0_5
+x_5_1_1_5
+x_5_3_3_44
+x_5_0_3_30
+x_5_0_2_55
+x_5_1_2_73
+x_5_0_1_59
+x_5_1_2_46
+x_5_3_1_71
+x_5_2_3_41
+x_5_3_2_53
+x_5_1_3_47
+x_5_2_2_3
+x_5_1_3_73
+x_5_1_0_23
+x_5_3_0_4
+x_5_1_1_4
+x_5_3_3_26
+x_5_2_0_51
+x_5_0_1_25
+x_5_3_0_79
+x_5_3_1_7
+x_5_3_3_29
+x_5_3_3_25
+x_5_0_2_5
+x_5_1_3_5
+x_5_1_3_49
+x_5_1_0_3
+x_5_3_0_44
+x_5_2_3_2
+x_5_3_1_44
+x_5_2_3_29
+x_5_2_0_44
+x_5_1_1_65
+x_5_2_1_75
+x_5_1_0_37
+x_5_2_1_18
+x_5_2_1_1
+x_5_1_0_4
+x_5_0_1_65
+x_5_1_0_8
+x_5_1_0_17
+x_5_0_2_52
+x_5_3_2_7
+x_5_1_1_38
+x_5_1_3_20
+x_5_1_1_21
+x_5_2_3_24
+x_5_3_2_5
+x_5_3_0_39
+x_5_2_1_79
+x_5_3_0_43
+x_5_2_3_12
+x_5_1_3_76
+x_5_1_0_55
+x_5_3_1_4
+x_5_3_2_4
+x_5_0_1_7
+x_5_1_2_14
+x_5_0_2_57
+x_5_1_3_71
+x_5_3_1_75
+x_5_3_1_38
+x_5_1_3_52
+x_5_1_2_27
+x_5_1_0_2
+x_5_2_2_66
+x_5_3_3_43
+x_5_3_2_71
+x_5_3_2_42
+x_5_3_1_10
+x_5_3_3_7
+x_5_1_1_33
+x_5_3_0_54
+x_5_1_1_62
+x_5_0_0_79
+x_5_3_2_14
+x_5_0_3_27
+x_5_3_2_78
+x_5_3_3_46
+x_5_1_0_41
+x_5_3_2_66
+x_5_3_1_1
+x_5_3_1_66
+x_5_2_0_4
+x_5_1_0_33
+x_5_3_3_6
+x_5_1_3_16
+x_5_1_1_52
+x_5_1_3_3
+x_5_2_3_32
+x_5_1_0_70
+x_5_0_2_9
+x_5_2_2_43
+x_5_1_0_51
+x_5_3_3_18
+x_5_2_1_14
+x_5_1_2_47
+x_5_0_0_57
+x_5_1_2_5
+x_5_0_3_32
+x_5_3_3_75
+x_5_3_0_59
+x_5_1_2_68
+x_5_1_0_13
+x_5_3_0_24
+x_5_1_1_76
+x_5_2_0_48
+x_5_3_0_12
+x_5_2_2_9
+x_5_2_0_23
+x_5_0_3_72
+x_5_0_2_37
+x_5_0_1_52
+x_5_3_3_61
+x_5_2_1_64
+x_5_2_1_20
+x_5_3_2_1
+x_5_3_2_58
+x_5_2_3_10
+x_5_3_1_76
+x_5_3_2_28
+x_5_1_2_53
+x_5_0_2_3
+x_5_1_0_50
+x_5_1_2_33
+x_5_2_0_47
+x_5_3_2_44
+x_5_2_2_62
+x_5_3_2_34
+x_5_3_3_8
+x_5_1_3_66
+x_5_1_1_77
+x_5_3_3_16
+x_5_1_2_76
+x_5_3_1_29
+x_5_3_0_16
+x_5_2_0_63
+x_5_1_1_42
+x_5_1_3_13
+x_5_3_3_57
+x_5_0_2_43
+x_5_3_1_2
+x_5_1_3_2
+x_5_3_2_3
+x_5_3_0_33
+x_5_1_1_30
+x_5_3_3_14
+x_5_3_3_32
+x_5_3_3_33
+x_5_1_2_1
+x_5_3_0_73
+x_5_0_2_35
+x_5_1_1_57
+x_5_3_3_77
+x_5_3_1_11
+x_5_3_3_71
+x_5_2_1_71
+x_5_3_0_7
+x_5_3_3_13
+x_5_3_1_23
+x_5_3_2_12
+x_5_1_1_79
+x_5_3_0_51
+x_5_3_3_37
+x_5_3_0_38
+x_5_1_0_5
+x_5_2_3_14
+x_5_2_1_42
+x_5_1_3_26
+x_5_1_2_0
+x_5_3_2_77
+x_5_3_0_21
+x_5_1_1_72
+x_5_3_1_58
+x_5_1_0_52
+x_5_3_1_9
+x_5_1_0_27
+x_5_1_3_56
+x_5_1_3_32
+x_5_3_2_48
+x_5_1_3_8
+x_5_1_0_12
+x_5_3_1_32
+x_5_1_1_56
+x_5_2_2_64
+x_5_2_2_65
+x_5_0_0_46
+x_5_3_0_40
+x_5_1_3_41
+x_5_1_0_15
+x_5_1_2_60
+x_5_3_1_28
+x_5_3_0_52
+x_5_0_2_50
+x_5_1_1_60
+x_5_0_3_64
+x_5_1_0_46
+x_5_3_2_6
+x_5_0_1_3
+x_5_3_2_15
+x_5_3_2_65
+x_5_1_1_34
+x_5_1_2_9
+x_5_3_2_24
+x_5_1_0_14
+x_5_1_2_30
+x_5_1_1_54
+x_5_3_1_24
+x_5_1_2_34
+x_5_3_0_2
+x_5_1_2_29
+x_5_1_0_16
+x_5_1_2_64
+x_5_3_1_57
+x_5_3_0_61
+
+Time used = 825.542564868927

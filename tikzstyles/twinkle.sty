@@ -1,0 +1,171 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% TWINKLE TikZ Macros  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%   Utilities for drawing twinkle permutation                                  %
+%   Version: 2025-04-03                                                        %
+%   Author: Hosein Hadipour                                                    %
+%   \usetikzlibrary{twinkle}                                                   %
+%   https://github.com/hadipourh                                               %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% twinkle.sty
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{twinkle}
+
+\RequirePackage{tikz}
+\RequirePackage{tugcolors}
+\usetikzlibrary{positioning}
+\usetikzlibrary{calc,cipher}
+
+% Define the size of each small square
+\newcommand{\squareSize}{1cm}
+
+% Define your custom colors
+\colorlet{zero}{white}
+\colorlet{one}{tugred}
+%\colorlet{upperunknown}{tugblue}
+%\colorlet{lowerunknown}{tuggreen!70!green}
+
+\colorlet{upper}{tugred}
+\colorlet{upperfix}{tugyellow}
+\colorlet{upperunknown}{upper}
+\colorlet{lower}{tugblue}
+\colorlet{lowerfix}{tugmid}
+\colorlet{lowerunknown}{lower}
+\colorlet{common}{tuggreen}
+
+
+% Define the matrix as a TikZ node with anchors
+\tikzset{
+  matrix node/.style={
+    draw,
+    rounded corners=2pt, % Add rounded corners
+    inner sep=0pt, % Set inner sep to zero to remove padding
+    outer sep=0pt,
+    alias=A,
+    execute at begin node={\begin{tikzpicture}},
+    execute at end node={\end{tikzpicture}}
+  }
+}
+
+% Macros to fill the upper and lower triangles of a cell
+\newcommand{\TFillCell}[3][]{\fill[#1] (\squareSize*#3,-\squareSize*#2-\squareSize) -- (\squareSize*#3,-\squareSize*#2) -- (\squareSize*#3+\squareSize,-\squareSize*#2) -- cycle;}
+\newcommand{\BFillCell}[3][]{\fill[#1]  (\squareSize*#3,-\squareSize*#2-\squareSize) -- (\squareSize*#3+\squareSize,-\squareSize*#2) -- (\squareSize*#3+\squareSize,-\squareSize*#2-\squareSize) --cycle;}
+\newcommand{\FillCellNew}[3][]{\fill[#1, rounded corners=2pt] (\squareSize*#3,-\squareSize*#2) rectangle ++(\squareSize,-\squareSize);}
+
+% Macro to draw a single square cell
+\newcommand{\drawCell}[2]{%
+  \pgfmathtruncatemacro{\row}{#1}
+  \pgfmathtruncatemacro{\col}{#2}
+  \draw[rounded corners=2pt] (\col*\squareSize,-\row*\squareSize) rectangle ++(\squareSize,-\squareSize);
+}
+
+% Macro to draw a single array
+\newcommand{\drawArray}[1]{%
+  \foreach \i in {0,...,15} {
+    \foreach \j in {0,...,79} {
+      \drawCell{\i}{\j}
+    }
+  }
+  \foreach \fillcmd in {#1} {
+    \fillcmd
+  }
+}
+
+% Macro to draw the round function
+\newcommand{\drawRoundC}[9]{
+  \node[matrix node] at (here) (matrix1) {
+    \drawArray{
+      #1
+    }
+  };
+  \node[matrix node, below=2cm of matrix1.south] (matrix2) {
+    \drawArray{
+      #2
+    }
+  };
+  \node[matrix node, below=2cm of matrix2.south] (matrix3) {
+    \drawArray{
+      #3
+    }
+  };
+  \node[matrix node, below=2cm of matrix3.south] (matrix4) {
+    \drawArray{
+      #4
+    }
+  };
+  \node[matrix node, below=2cm of matrix4.south] (matrix5) {
+    \drawArray{
+      #5
+    }
+  };
+  \draw[-latex, line width=1.5pt, ultra thick] (matrix1.south) --node[right]{\huge#6} (matrix2.north);
+  \draw[-latex, line width=1.5pt, ultra thick] (matrix2.south) --node[right]{\huge#7} (matrix3.north);
+  \draw[-latex, line width=1.5pt, ultra thick] (matrix3.south) --node[right]{\huge#8} (matrix4.north);
+  \draw[-latex, line width=1.5pt, ultra thick] (matrix4.south) --node[right]{\huge#9} (matrix5.north);
+  \coordinate (here) at (matrix5);
+}
+
+% Macro to draw the round function (1 round one arrow)
+\newcommand{\drawRound}[3]{
+  \node[matrix node] at (here) (matrix1) {
+    \drawArray{
+      #1
+    }
+  };
+  \node[matrix node, below=2cm of matrix1.south] (matrix2) {
+    \drawArray{
+      #2
+    }
+  };
+  \draw[-latex, line width=1.5pt, ultra thick] (matrix1.south) --node[right]{\huge#3} (matrix2.north);
+  \coordinate (here) at (matrix2);
+}
+
+\endinput
+
+% % Usage Example
+
+% - Open a .tex file, e.g., main.tex
+% - Add the following lines to the preamble:
+
+% % main.tex
+% \documentclass[tikz]{standalone}
+% \usepackage{twinkle}
+% \usepackage{amsmath}
+
+% \begin{document}
+% \begin{tikzpicture}
+
+% \coordinate (here) at (0,0);
+
+% \drawRound{
+% \TFillCell[orange]{1}{2},
+% \BFillCell[purple]{2}{1},
+% \FillCellNew[orange]{0}{0}
+% }{
+% \TFillCell[orange]{1}{2},
+% \BFillCell[purple]{2}{1},
+% \FillCellNew[orange]{0}{0}
+% }{$\text{Round}~0$};
+
+% \drawRoundC{
+% \TFillCell[orange]{1}{2},
+% \BFillCell[purple]{2}{1},
+% \FillCellNew[orange]{0}{0}
+% }{
+% \TFillCell[orange]{1}{2},
+% \BFillCell[purple]{2}{1},
+% \FillCellNew[orange]{0}{0}
+% }{
+% \TFillCell[orange]{1}{2},
+% \BFillCell[purple]{2}{1},
+% \FillCellNew[orange]{0}{0}
+% }{
+% \TFillCell[orange]{1}{2},
+% }{
+% \TFillCell[orange]{1}{2},
+% }{$S$}{$R_0$}{$M$}{$R_1$};
+
+% \end{tikzpicture}
+% \end{document}
+
