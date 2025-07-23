@@ -1,6 +1,6 @@
 # Breaking the Twinkle Authenticated Encryption Scheme
 
-This repository includes the source code of the tools we utilized in our paper entitled [Breaking the Twinkle Authentication Scheme and Analyzing Its Underlying Permutation]() accepted in [SAC 2025](https://sacworkshop.org/SAC25/).
+This repository includes the source code of the tools we utilized in our paper entitled [Breaking the Twinkle Authentication Scheme and Analyzing Its Underlying Permutation](https://ia.cr/2025/1339) accepted in [SAC 2025](https://sacworkshop.org/SAC25/).
 
 ## Abstract
 
