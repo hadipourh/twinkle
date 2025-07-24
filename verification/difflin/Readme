@@ -1,7 +1,0 @@
-1. To run:
-       make run
-
-2. To verify rotation invariance:
-       make run_rotate 
-
-3. For input: Check input.c. Follow the specific formats for the input differential and output mask. Add round number, degree of the experiment (number of samples) and total number of experiments.

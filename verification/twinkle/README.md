@@ -34,7 +34,9 @@ $$
 
 Similarly, for the $i$-th lane with $0 \leq i \leq 15$, 
 
-$$s[2i]\parallel s[2i +1] = s_{\(16\times 79\) +i} \cdots s_{\(16\times 64\) +i} (\text{16 bit}) \parallel s_{\(16\times 63\) +i} \cdots s_{\(16\times 0\) +i} (\text{64 bit})$$
+$$
+s[2i] \parallel s[2i +1] = s_{(16 \times 79) + i} \cdots s_{(16 \times 64) + i} (\text{16 bit}) \parallel s_{(16 \times 63) + i} \cdots s_{(16 \times 0) + i} (\text{64 bit})
+$$
 
 ## Usage
 To run the code, run the following command in linux terminal or run the main.c file.
