@@ -46,46 +46,9 @@ Our tool requires the following software:
 Many CP solvers are bundled with MiniZinc and can be used without any further installation. 
 We use Or-Tools as the CP solver. 
 Fortunately, `OR Tools CP-SAT` is bundled with MiniZinc after version 2.8.0. Thus, by installing the latest version of MiniZinc, one can use `OR Tools CP-SAT` without any further installation.
-Additionally, we need the Python package named `minizinc` to work with MiniZinc in Python. 
-To install the required software in Ubuntu, one can use the following commands:
-
-```bash
-#!/bin/bash
-
-# Update and upgrade system packages
-sudo apt update -y
-sudo apt upgrade -y
-
-# Install system dependencies
-sudo apt install -y python3-full python3-pip python3-venv git wget curl
-
-# Create a working directory
-mkdir -p "$HOME/minizinc_install"
-cd "$HOME/minizinc_install"
-
-# Download and extract the latest MiniZinc release
-LATEST_MINIZINC_VERSION=$(curl -s https://api.github.com/repos/MiniZinc/MiniZincIDE/releases/latest | grep -oP '"tag_name": "\K(.*)(?=")')
-wget "https://github.com/MiniZinc/MiniZincIDE/releases/download/$LATEST_MINIZINC_VERSION/MiniZincIDE-$LATEST_MINIZINC_VERSION-bundle-linux-x86_64.tgz"
-tar -xvzf MiniZincIDE-$LATEST_MINIZINC_VERSION-bundle-linux-x86_64.tgz
-mv MiniZincIDE-$LATEST_MINIZINC_VERSION-bundle-linux-x86_64 "$HOME/minizinc"
-rm MiniZincIDE-$LATEST_MINIZINC_VERSION-bundle-linux-x86_64.tgz
-
-# Clean up the created folders
-rm -rf "$HOME/minizinc_install"
-
-# Add MiniZinc to system PATH
-sudo ln -sf "$HOME/minizinc/bin/minizinc" /usr/local/bin/minizinc
-
-# Create a Python virtual environment
-python3 -m venv "$HOME/zerovenv"
-source "$HOME/zerovenv/bin/activate"
-
-# Install Python packages
-pip install --upgrade pip
-pip install minizinc
-```
-
-To install and activate Gurobi on Linux, we refer to [GrabGurobi](https://github.com/hadipourh/grabgurobi). 
+Additionally, we need the Python package named `minizinc` to work with MiniZinc in Python.
+- To install the required software in Debian-based Linux distributions, you can refer to [minizinc-installer-linux](https://github.com/hadipourh/minizinc-installer-linux).
+- To install and activate Gurobi on Linux, we refer to [GrabGurobi](https://github.com/hadipourh/grabgurobi).
 
 ## Structure of Our Tool
 
